@@ -1,0 +1,79 @@
+/* #981CEB */
+html, body {
+  margin: 0;
+  padding:0;
+}
+
+body {
+  margin: 10px 0;
+  background: #000;
+  color: #fff;
+  font-family: "SF Pro Display", "SF Pro", "Helvetica Neue", "Roboto", "Segoe UI", Helvetica, Arial, Verdana, sans-serif;
+}
+
+a {
+  color: #b342ff;
+}
+
+a:hover {
+  opacity: 0.9;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.card {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.buttons a {
+  text-align: center;
+  background: #512673;
+  font-weight: bold;
+  color: #fff;
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+  text-align: center;
+  flex: 1;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.row {
+  padding: 5px 15px;
+}
+
+.logo {
+  width: 40px;
+  display: block;
+  margin: 25px auto;
+}
+
+@media screen and (min-width: 900px) {
+  .buttons:not(.two) {
+    grid-template-columns: 33.3% 33.3% 33.3%;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .buttons {
+    grid-template-columns: 100%;
+  }
+}
+
+.content {
+  padding: 5px 20px;
+}
