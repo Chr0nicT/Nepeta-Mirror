@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Relocate Module (Control Center) - Nepeta</title>
+<link rel="stylesheet" href="https://repo.nepeta.me/assets/style.css?19" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Relocate Module (Control Center)" />
+<meta property="og:title" content="Relocate Module (Control Center)" />
+<meta name="twitter:description" content="Relocate Module (Control Center) 0.1.1 by Nepeta . CC toggle for Relocate (GPS location spoofer)." />
+<meta name="description" content="Relocate Module (Control Center) 0.1.1 by Nepeta . CC toggle for Relocate (GPS location spoofer)." />
+<meta property="og:description" content="Relocate Module (Control Center) 0.1.1 by Nepeta . CC toggle for Relocate (GPS location spoofer)." />
+<meta property="og:site_name" content="Nepeta" />
+<meta name="twitter:image" content="https://repo.nepeta.me/icons/me.nepeta.relocatemodule.png" />
+<meta property="og:image" content="https://repo.nepeta.me/icons/me.nepeta.relocatemodule.png" />
+<link rel="icon" type="image/png" href="https://repo.nepeta.me/favicon.png">
+</head>
+<body>
+<a class="logo" href="https://repo.nepeta.me/"><img class="logo" src="https://repo.nepeta.me/assets/nepeta.png" alt="Nepeta" /></a>
+<div class="card">
+<div class="row buttons">
+<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.nepeta.me/&amp;package=me.nepeta.relocatemodule" class="button">Open in Cydia</a>
+</div>
+<div class="row info">
+<div class="package">
+<span class="icon"><img src="https://repo.nepeta.me/icons/me.nepeta.relocatemodule.png" alt="Relocate Module (Control Center)" /></span>
+<span class="name">Relocate Module (Control Center)</span>
+<span class="version">0.1.1</span>
+<span class="author">Nepeta </span>
+</div>
+</div>
+<div class="row info warning">
+I will no longer provide support for any of my packages. Don't bother me anymore.
+</div>
+<div class="row info warning" style="background: #23a352;">
+This package is compatible with arm64e (A12) devices.
+</div>
+<div class="row content">
+<h3>Recent changes &bull; <a href="https://repo.nepeta.me/changelog/me.nepeta.relocatemodule" alt="Changelog">Full changelog</a></h3>
+<div class="changelog">
+<ul>
+<li>Added a checkmark.</li>
+<li>Fixed a bug causing the location to not apply sometimes.</li>
+</ul> </div>
+<h3>Description</h3>
+<div class="description">
+<p>CC toggle for Relocate (GPS location spoofer).</p> </div>
+<h3>Screenshots</h3>
+<div class="screenshots">
+<div class="screenshot"><a href="https://repo.nepeta.me/screenshot/me.nepeta.relocatemodule/1"><img src="https://repo.nepeta.me/screenshots/screenshot_5cdad307183b7.thumb.jpg" alt="Screenshot - Relocate Module (Control Center)" style="max-width: 100%;" /></a></div>
+<div class="screenshot"><a href="https://repo.nepeta.me/screenshot/me.nepeta.relocatemodule/2"><img src="https://repo.nepeta.me/screenshots/screenshot_5cdad312641b6.thumb.jpg" alt="Screenshot - Relocate Module (Control Center)" style="max-width: 100%;" /></a></div>
+</div>
+</div>
+</div>
+<br><br>
+</body>
+</html>

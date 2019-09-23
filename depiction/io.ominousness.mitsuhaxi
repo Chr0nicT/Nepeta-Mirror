@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>MitsuhaXI - Nepeta</title>
+<link rel="stylesheet" href="https://repo.nepeta.me/assets/style.css?19" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="MitsuhaXI" />
+<meta property="og:title" content="MitsuhaXI" />
+<meta name="twitter:description" content="MitsuhaXI 0.5.5 by c0ldra1n &amp; Nepeta. MitsuhaXI will no longer receive updates - if you want the best audio visualizer try: Mitsuha Infinity (also available on this repo) Mitsuha Infinity is more stab..." />
+<meta name="description" content="MitsuhaXI 0.5.5 by c0ldra1n &amp; Nepeta. MitsuhaXI will no longer receive updates - if you want the best audio visualizer try: Mitsuha Infinity (also available on this repo) Mitsuha Infinity is more stab..." />
+<meta property="og:description" content="MitsuhaXI 0.5.5 by c0ldra1n &amp; Nepeta. MitsuhaXI will no longer receive updates - if you want the best audio visualizer try: Mitsuha Infinity (also available on this repo) Mitsuha Infinity is more stab..." />
+<meta property="og:site_name" content="Nepeta" />
+<meta name="twitter:image" content="https://repo.nepeta.me/icons/io.ominousness.mitsuhaxi.png" />
+<meta property="og:image" content="https://repo.nepeta.me/icons/io.ominousness.mitsuhaxi.png" />
+<link rel="icon" type="image/png" href="https://repo.nepeta.me/favicon.png">
+</head>
+<body>
+<a class="logo" href="https://repo.nepeta.me/"><img class="logo" src="https://repo.nepeta.me/assets/nepeta.png" alt="Nepeta" /></a>
+<div class="card">
+<div class="row buttons">
+<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.nepeta.me/&amp;package=io.ominousness.mitsuhaxi" class="button">Open in Cydia</a>
+</div>
+<div class="row info">
+<div class="package">
+<span class="icon"><img src="https://repo.nepeta.me/icons/io.ominousness.mitsuhaxi.png" alt="MitsuhaXI" /></span>
+<span class="name">MitsuhaXI</span>
+<span class="version">0.5.5</span>
+<span class="author">c0ldra1n &amp; Nepeta</span>
+</div>
+</div>
+<div class="row info warning">
+I will no longer provide support for any of my packages. Don't bother me anymore.
+</div>
+<div class="row info warning">
+This package is deprecated. It will no longer receive updates and will not work on arm64e (A12). </div>
+<div class="row content">
+<h3>Description</h3>
+<div class="description">
+<h1>MitsuhaXI will no longer receive updates - if you want the best audio visualizer try: Mitsuha Infinity (also available on this repo)</h1>
+<p><br><br>Mitsuha Infinity is more stable and has more visualizer styles.</p> </div>
+</div>
+</div>
+<br><br>
+</body>
+</html>

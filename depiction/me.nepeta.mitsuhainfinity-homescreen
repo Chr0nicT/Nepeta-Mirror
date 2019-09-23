@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Mitsuha Infinity - Home Screen - Nepeta</title>
+<link rel="stylesheet" href="https://repo.nepeta.me/assets/style.css?19" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Mitsuha Infinity - Home Screen" />
+<meta property="og:title" content="Mitsuha Infinity - Home Screen" />
+<meta name="twitter:description" content="Mitsuha Infinity - Home Screen 0.1.1 by Nepeta. DOWNLOAD: libcolorpicker-nepeta (click on this) Audio visualizer for the home screen..." />
+<meta name="description" content="Mitsuha Infinity - Home Screen 0.1.1 by Nepeta. DOWNLOAD: libcolorpicker-nepeta (click on this) Audio visualizer for the home screen..." />
+<meta property="og:description" content="Mitsuha Infinity - Home Screen 0.1.1 by Nepeta. DOWNLOAD: libcolorpicker-nepeta (click on this) Audio visualizer for the home screen..." />
+<meta property="og:site_name" content="Nepeta" />
+<meta name="twitter:image" content="https://repo.nepeta.me/icons/me.nepeta.mitsuhainfinity-homescreen.png" />
+<meta property="og:image" content="https://repo.nepeta.me/icons/me.nepeta.mitsuhainfinity-homescreen.png" />
+<link rel="icon" type="image/png" href="https://repo.nepeta.me/favicon.png">
+</head>
+<body>
+<a class="logo" href="https://repo.nepeta.me/"><img class="logo" src="https://repo.nepeta.me/assets/nepeta.png" alt="Nepeta" /></a>
+<div class="card">
+<div class="row buttons">
+<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.nepeta.me/&amp;package=me.nepeta.mitsuhainfinity-homescreen" class="button">Open in Cydia</a>
+</div>
+<div class="row info">
+<div class="package">
+<span class="icon"><img src="https://repo.nepeta.me/icons/me.nepeta.mitsuhainfinity-homescreen.png" alt="Mitsuha Infinity - Home Screen" /></span>
+<span class="name">Mitsuha Infinity - Home Screen</span>
+<span class="version">0.1.1</span>
+<span class="author">Nepeta</span>
+</div>
+</div>
+<div class="row info warning">
+I will no longer provide support for any of my packages. Don't bother me anymore.
+</div>
+<div class="row info warning" style="background: #23a352;">
+This package is compatible with arm64e (A12) devices.
+</div>
+<div class="row content">
+<h3>Recent changes &bull; <a href="https://repo.nepeta.me/changelog/me.nepeta.mitsuhainfinity-homescreen" alt="Changelog">Full changelog</a></h3>
+<div class="changelog">
+<ul>
+<li>A12 support</li>
+</ul> </div>
+<h3>Description</h3>
+<div class="description">
+<h1><a href="https://cydia.saurik.com/package/me.nepeta.libcolorpicker/">DOWNLOAD: libcolorpicker-nepeta (click on this)</a></h1>
+<p>Audio visualizer for the home screen</p> </div>
+<h3>Screenshots</h3>
+<div class="screenshots">
+<div class="screenshot"><a href="https://repo.nepeta.me/screenshot/me.nepeta.mitsuhainfinity-homescreen/1"><img src="https://repo.nepeta.me/screenshots/screenshot_5ce2e7e76d941.thumb.jpg" alt="Screenshot - Mitsuha Infinity - Home Screen" style="max-width: 100%;" /></a></div>
+</div>
+</div>
+</div>
+<br><br>
+</body>
+</html>
