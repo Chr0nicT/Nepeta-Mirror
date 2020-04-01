@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Docky - Nepeta</title>
+<link rel="stylesheet" href="https://repo.nepeta.me/assets/style.css?19" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Docky" />
+<meta property="og:title" content="Docky" />
+<meta name="twitter:description" content="Docky 0.1.0 by Nepeta . Requires latest version of Rocketbootstrap. Install the tweak first, then add this repo (https://rpetri.ch/repo/) and update all your packages. Dock customization tweak. Replac..." />
+<meta name="description" content="Docky 0.1.0 by Nepeta . Requires latest version of Rocketbootstrap. Install the tweak first, then add this repo (https://rpetri.ch/repo/) and update all your packages. Dock customization tweak. Replac..." />
+<meta property="og:description" content="Docky 0.1.0 by Nepeta . Requires latest version of Rocketbootstrap. Install the tweak first, then add this repo (https://rpetri.ch/repo/) and update all your packages. Dock customization tweak. Replac..." />
+<meta property="og:site_name" content="Nepeta" />
+<meta name="twitter:image" content="https://repo.nepeta.me/icons/me.nepeta.docky.png" />
+<meta property="og:image" content="https://repo.nepeta.me/icons/me.nepeta.docky.png" />
+<link rel="icon" type="image/png" href="https://repo.nepeta.me/favicon.png">
+</head>
+<body>
+<a class="logo" href="https://repo.nepeta.me/"><img class="logo" src="https://repo.nepeta.me/assets/nepeta.png" alt="Nepeta" /></a>
+<div class="card">
+<div class="row buttons">
+<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.nepeta.me/&amp;package=me.nepeta.docky" class="button">Open in Cydia</a>
+</div>
+<div class="row info">
+<div class="package">
+<span class="icon"><img src="https://repo.nepeta.me/icons/me.nepeta.docky.png" alt="Docky" /></span>
+<span class="name">Docky</span>
+<span class="version">0.1.0</span>
+<span class="author">Nepeta </span>
+</div>
+</div>
+<div class="row info warning">
+I will no longer provide support for any of my packages. Don't bother me anymore.
+</div>
+<div class="row info warning" style="background: #23a352;">
+This package is compatible with arm64e (A12) devices.
+</div>
+<div class="row content">
+<h3>Description</h3>
+<div class="description">
+<h1>Requires latest version of Rocketbootstrap. Install the tweak first, then add this repo (<a href="https://rpetri.ch/repo/">https://rpetri.ch/repo/</a>) and update all your packages.</h1>
+<p>Dock customization tweak. Replacement for 2dock (DoubleDock) and Infinidock.</p>
+<p><strong>Not compatible with FloatyDock, FloatingDock and iPads. Will never be compatible, I don't own an iPad and I'm not interested in owning one.</strong></p>
+<h3>Features:</h3>
+<ul>
+<li><a href="https://twitter.com/NepetaDev/status/1169497869574955008">Infinite scrolling dock</a><ul>
+<li>Supports <a href="https://twitter.com/NepetaDev/status/1169640362207563777">paging</a> and snapping.</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/NepetaDev/status/1168208930704699395">Expandable dock</a></li>
+<li><a href="https://twitter.com/NepetaDev/status/1168204420057882624">Double dock</a></li>
+<li>Set your dock to iPhone X style (on older iPhones) or to old iPhone style (on iPhone X and similar)</li>
+<li>Change dock transparency (alpha)</li>
+<li>Five icons instead of four</li>
+<li>FREE!</li>
+</ul>
+<p>Coming soon: dock color, blur settings and more.</p> </div>
+<h3>Screenshots</h3>
+<div class="screenshots">
+<div class="screenshot"><a href="https://repo.nepeta.me/screenshot/me.nepeta.docky/1"><img src="https://repo.nepeta.me/screenshots/screenshot_5d728289dbcae.thumb.jpg" alt="Screenshot - Docky" style="max-width: 100%;" /></a></div>
+ <div class="screenshot"><a href="https://repo.nepeta.me/screenshot/me.nepeta.docky/2"><img src="https://repo.nepeta.me/screenshots/screenshot_5d7282c7a2917.thumb.jpg" alt="Screenshot - Docky" style="max-width: 100%;" /></a></div>
+<div class="screenshot"><a href="https://repo.nepeta.me/screenshot/me.nepeta.docky/3"><img src="https://repo.nepeta.me/screenshots/screenshot_5d7282cee2bdd.thumb.jpg" alt="Screenshot - Docky" style="max-width: 100%;" /></a></div>
+</div>
+</div>
+</div>
+<br><br>
+</body>
+</html>

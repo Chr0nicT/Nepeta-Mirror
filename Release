@@ -1,0 +1,31 @@
+Codename: ominousness
+Components: main
+Date: Wed, 01 Apr 2020 05:41:17 +0000
+Description: Nepeta's repo for mostly FOSS software. Supports Cydia and Zebra. (MIRROR)
+Label: Nepeta (MIRROR)
+Origin: Nepeta (MIRROR)
+Suite: stable
+MD5Sum:
+ ed20fe0ac8c37099c169afc898c1cd8f           132420 Packages
+ d066835e487a2b8a7a5074e339596cb6            33041 Packages.bz2
+ 311dc1e2f11ce42fd5f70dfb0056ebb0            32492 Packages.xz
+ a549940f0eb803c3ac5c1c4c0f3f0841            33053 Packages.zst
+ 886e6edf8ebc4c42b63902de7f54fe96              226 Release
+SHA1:
+ 2c0b09f734e09d3df1640cbab0a869fc5044754d           132420 Packages
+ 9e9a9aeb9e26ad8c46a35c75e83f1044b2276702            33041 Packages.bz2
+ 9a58a14b799a90fa3c0812c95739edb10274e2d9            32492 Packages.xz
+ f1655fd2702ed95fa8e5f394882f7e44f5c3041f            33053 Packages.zst
+ 0f43bdf16100e4b789782d60de840b04591aeaf7              226 Release
+SHA256:
+ 0905074ffbfd9294f88098f3375b3c2688309d808a832099b098d11089957dec           132420 Packages
+ 8d587435f162add80c6551c315cb1186f6655fdf2734ce2ea9196ec58c82f9ae            33041 Packages.bz2
+ a96903e845792b758ce595ec412647f49928601d117768c8a6fb2402adb5c48a            32492 Packages.xz
+ ec170c9eeb1ab0230e2358b98ea9382ed718cb89a471528e1b3f35924d4f14a7            33053 Packages.zst
+ 123aa1d28935699232089aa7a076b0a18310ba1042678f2371c8f7d552e9353d              226 Release
+SHA512:
+ f2cd5ee098e87d4ac826cc944ea2f7e6756adbcf27ee92958ddd0d78478b758e76cb359a7cfc085954a0addf21456fbfdd56c15891a019e4a4c644fa3ae1e278           132420 Packages
+ 92e8d6fe455b1167468889d8988c896ccaaba9e3f8d8d1ae5128d4430680453674d84a1d9812d15ec5578164a988743346e2dc7f9141558abae1eb08b98eb0c1            33041 Packages.bz2
+ bc30d9a1e069eefbc2e191d1f747517524a0d1c7c55756061227b1956d5416fd2a9981771f782e4e8a3192ea24e11207982f485a6b8814651fc50c1fb750514d            32492 Packages.xz
+ a22457cffaa0e2b0fe4797fe00e9553aaf82bb408f997cec487db90d2d19d9a37b785072f73b87a9afc6397365e8036634eee2e6f4f83a1f84722ccc1d34a777            33053 Packages.zst
+ b0872e9de6783b9cace16363bfcba97af747a2a1ed2fca11a981998900f9a970d978290cd0bebd352e09465e60fba4c2a8c1ff6e32b28a9246cac3fa72dd650a              226 Release

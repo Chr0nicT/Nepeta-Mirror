@@ -1,0 +1,3216 @@
+Package: com.chilaxan.cuboid
+Architecture: iphoneos-arm
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: chilaxan & Nepeta
+Installed-Size: 364
+Depends: mobilesubstrate
+Filename: ./debians/com.chilaxan.cuboid_2.0.0-1_iphoneos-arm.deb
+Size: 65352
+MD5sum: 1658f68a9f6e2c443667f993a5d63f52
+SHA1: a5e99a306d977031e7bcb0222fe21ef5f7e80ff3
+SHA256: 3b49c11d6ff3464c1a3969b5b8af9947ac4524a9d50add5fd5ac89653bbe80da
+SHA512: 6d3709c7c7c922552df0fef9915ab87060623e5377bceb156387e11ac872dfaf3d47d92728c302c3b9b02dbadd90b83c865375d1f4b6ce5031c3538edbaccfca
+Description: Lightweight home screen layout manager.
+Name: Cuboid
+Author: chilaxan & Nepeta
+
+Package: com.chilaxan.cuboid
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: Tweaks
+Maintainer: chilaxan & Nepeta
+Installed-Size: 364
+Depends: mobilesubstrate
+Filename: ./debians/com.chilaxan.cuboid_2.0.0_iphoneos-arm.deb
+Size: 64922
+MD5sum: 2a4b6c5765290013ff8e1da39cb774e2
+SHA1: 8140daefe7b1cd0de4cf81e796d89691fa603ed4
+SHA256: 5c20a23904aa9bfc32d7526907bf26e145e91f2e1547c1ab591c184d234260a0
+SHA512: 7a6db1203a69fbe24dabc72bd6e4c0c7ecaefc8dc6c27c3116fd2b8702eec4e371f451d564fa1d833e7420030f4f282db3cbedf6e6fb708786973e61a27b9c2e
+Description: Lightweight home screen layout manager.
+Name: Cuboid
+Author: chilaxan & Nepeta
+
+Package: com.chilaxan.cuboid
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: chilaxan & Nepeta
+Installed-Size: 380
+Depends: mobilesubstrate
+Filename: ./debians/com.chilaxan.cuboid_2.0.1_iphoneos-arm.deb
+Size: 67242
+MD5sum: d4e3e114966d3673a1ae91f4b3e49caa
+SHA1: 0ebb0791010da3ba00b59198f122afc41c59c1d0
+SHA256: d13588a5f8e9fe903125059e8c4b0b35a7d8398e0b5947fcb4815ff1fe238525
+SHA512: 30e4743b7a2660d0300371bd81023901666e0aa4f83101b3f9ac11e13ae0d9d81ec4e63778a56e477ed21fc6726e63e4f7f8e0f2921aa42fdb58a50ea99008a7
+Description: Lightweight home screen layout manager.
+Name: Cuboid
+Author: chilaxan & Nepeta
+
+Package: com.easy-z.ezbatteries
+Architecture: iphoneos-arm
+Version: 2.1.2
+Section: Tweaks
+Maintainer: Easy-Z & Karimo299
+Installed-Size: 448
+Depends: mobilesubstrate, net.limneos.libbulletin, preferenceloader, ws.hbang.common
+Filename: ./debians/com.easy-z.ezbatteries_2.1.2_iphoneos-arm.deb
+Size: 196158
+MD5sum: fa06dce35b548e7d947eea6a031659dc
+SHA1: d37a9f326dfe0b6eb2b642b7114172bfd913b990
+SHA256: 3002e67cbac47821ca34dd540f120b7cfeab5135f4fd04527e5652d1641873e5
+SHA512: a974a9190d72c731dac5af7ad604d9ac53ac2862b76ab05b187b5ff092bfeb010885cb98d6d8be0d8a8ffc2743fd35fe7ac95b325e3629127c0bee5d98e4bee1
+Description: EZBatteries displays your iPhone battery percentage and the battery percentage of any device that you have connected through Bluetooth, by double tapping the status bar. Ex: Air Pods, Apple Watch etc…
+Name: EZBatteries
+Author: Easy-Z & Karimo299
+
+Package: com.easy-z.ezbatteries
+Architecture: iphoneos-arm
+Version: 2.2.0
+Section: Tweaks
+Maintainer: Easy-Z & Karimo299
+Installed-Size: 440
+Depends: mobilesubstrate, net.limneos.libbulletin, preferenceloader, ws.hbang.common
+Filename: ./debians/com.easy-z.ezbatteries_2.2.0_iphoneos-arm.deb
+Size: 192604
+MD5sum: 77771818dcd585c9a82511a129f2b931
+SHA1: 23b79d4563f58e225d75e9475f7abef23921a860
+SHA256: 67f389240f8f996bd0995e0b2a56ccb3f217fcc45c2e38225f789e340ab21052
+SHA512: f34aa68101271f2322fccfc6a0c3be954021afda822ca7ed80db5b25c4fddf75ca2ec096dcfa19799f85d4153dd7bf6caac73fc384bcc5a5183f1c805e5928dd
+Description: EZBatteries displays your iPhone battery percentage and the battery percentage of any device that you have connected through Bluetooth, by double tapping the status bar. Ex: Air Pods, Apple Watch etc…
+Name: EZBatteries
+Author: Easy-Z & Karimo299
+
+Package: com.easy-z.ezbatteries
+Architecture: iphoneos-arm
+Version: 2.2.1
+Section: Tweaks
+Maintainer: Easy-Z & Karimo299
+Installed-Size: 468
+Depends: mobilesubstrate, net.limneos.libbulletin, preferenceloader, ws.hbang.common
+Filename: ./debians/com.easy-z.ezbatteries_2.2.1_iphoneos-arm.deb
+Size: 187022
+MD5sum: 186e20d1fd1098fe356ce73580917561
+SHA1: 609132d57952bd56e1024cc60216e9a710fa7ab9
+SHA256: 867f33fd0398ecfae230db6e40940761fb5d2687a3e4bd53ecea82b95e74a515
+SHA512: 98a37bd0ed9cf9d25ab76b82efa30d4a5f8c54c6e34617a599a9395e65e732951101585a227da2eb89ebfc506e9c44e6c0eb6f8cf077f267c8ef8c45452ec817
+Description: EZBatteries displays your iPhone battery percentage and the battery percentage of any device that you have connected through Bluetooth, by double tapping the status bar. Ex: Air Pods, Apple Watch etc…
+Name: EZBatteries
+Author: Easy-Z & Karimo299
+
+Package: com.peterdev.betalert
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 10.0), firmware (<< 12.2)
+Filename: ./debians/com.peterdev.betalert_1.0.1_iphoneos-arm.deb
+Size: 6788
+MD5sum: 054f0441704843228ddbd4cf8eb4d77e
+SHA1: e1adbd2955b62e3bd80640749332470967805036
+SHA256: ac858ffdb27e06c9bd3e009c55e6ce002b4199b234c4645d3ef4ef9c4d286fbd
+SHA512: 7489b3f9ab7a589b7ecec2450bbc3ce04dc7087e076090b67757eb400464c2feeb76c2fca0141e49fd311410eb99b31eeb5d1ee981b029a51e84033e3ddec2ad
+Description: Have you ever felt pains of iOS beta alert?
+Name: BetAlert
+Author: PeterDev <djperter@icloud.com>
+
+Package: com.peterdev.betalert
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 104
+Depends: mobilesubstrate, firmware (>= 10.0), firmware (<< 12.2)
+Filename: ./debians/com.peterdev.betalert_1.0_iphoneos-arm.deb
+Size: 5020
+MD5sum: 9f635550ec619ee23773ea46d4bee6ab
+SHA1: aa9b7273cf4bdd7453890f3cf1d612ea12ac514c
+SHA256: 63d0b39c8578eccb792c47105288e22c093f8fab3bd69ae839a5397c6db2f742
+SHA512: f9bb127a33db93941d9b699a497b3c5cbb20cb36a273fe76ed6b331921b46641761cfbe8b1f9fb58dbdc12aab426db7219ee6f126fd1e90d3b1bff343e46e635
+Description: Have you ever felt pains of iOS beta alert?
+Name: BetAlert
+Author: PeterDev <djperter@icloud.com>
+
+Package: com.peterdev.musiclocker
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 104
+Depends: mobilesubstrate, me.nepeta.libnepeta
+Filename: ./debians/com.peterdev.musiclocker_1.0_iphoneos-arm.deb
+Size: 4194
+MD5sum: 3697e2ebe6827acaf87efe8930a117fc
+SHA1: f9f82db218f23c412f0d28cfe556b918eace7edf
+SHA256: 7a34a3f4977ade3d95dd9935cec3b5f6e17c8ca84edb3808f60bcb7d0d736eac
+SHA512: 18e336c2509c859e1841952362c929abde38241731b09ddfd4b14fa751b333d79caa93e35a23764d2a7c14648552362ab189b0b1c00d285c680571199cbd9ffe
+Description: Don't disturb me while listening to music.
+Name: MusicLocker
+Author: PeterDev <djperter@icloud.com>
+
+Package: com.peterdev.notchcontrol
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 476
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), cy+cpu.arm64
+Filename: ./debians/com.peterdev.notchcontrol_1.0.1_iphoneos-arm.deb
+Size: 68280
+MD5sum: bbd589b314dd38be7ea21de353f35ec1
+SHA1: 73314416c9e2764e0acfe6c6981b239c91b4a7b0
+SHA256: 887196bfe7b8906bf58a906a25197cafe1816db68281b41446abfa47ba35f481
+SHA512: 81c19aba5191255d28883b3acc36ee82e68f9f6e07a85b932e95827e31c32a6e03dffc1e61c1dd8f8ac153c75e596b67c249e567b5b1b9c8d84122ad798643fb
+Description: Control with your Notch!
+Name: NotchControl
+Author: PeterDev <djperter@icloud.com>
+
+Package: com.peterdev.notchcontrol
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 428
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), cy+cpu.arm64
+Filename: ./debians/com.peterdev.notchcontrol_1.0_iphoneos-arm.deb
+Size: 57408
+MD5sum: 11b9b35c019bd718b6b49630172a46ae
+SHA1: 49ae8b3cab844ed5e6d16583c22439845fe3621d
+SHA256: 77c40d7249d381d0444b1953a5f1760e4e49cacf0840e5f0beea0f83609488c5
+SHA512: ef218c786cefa8bba4492ed6b39a0207c85fb37b25b2ee3fa1ff0b5f20b2dc1a644765a758141dbd9fb1907d6ebb0b808f5b3bf2022726a8392fbf7ddb3b4629
+Description: Expand your Notch!
+Name: NotchControl
+Author: PeterDev <djperter@icloud.com>
+
+Package: com.peterdev.whatabouthis
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 248
+Depends: mobilesubstrate, firmware (<= 12.1.4)
+Filename: ./debians/com.peterdev.whatabouthis_1.1.1_iphoneos-arm.deb
+Size: 10152
+MD5sum: d2f4799e4a3868bb13b221217e9d784a
+SHA1: 7745c23d976105933dec50f508a8bcb4fd2c1c5c
+SHA256: 5d69dca4e773e0ac51cbdb9f25b469c58873783b4edeb323838b37aeee403d5e
+SHA512: 490c5ac62198dc31e576d4cb4c5d59d887c501163adac789bd1e242daea3bf4c7043331e606c021325d1e530bca4bcc1da8fb8d62249c420bd8264e76ae0d7f1
+Description: Brings an iOS 12.2-style About page in the Settings app to older versions.
+Name: WhatAboutThis
+Author: PeterDev <djperter@icloud.com>
+
+Package: com.peterdev.whatabouthis
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (<= 12.1.4)
+Filename: ./debians/com.peterdev.whatabouthis_1.1_iphoneos-arm.deb
+Size: 7724
+MD5sum: f89d86f93177ff3d39a588002b2791bb
+SHA1: 66868df06067aacafcb382092bae1c51610adc10
+SHA256: ca420625140501f935beeaac31cfa4ffd8037339107561bf5e67569c3ff8f2aa
+SHA512: 866c7af3db0ed10fa48c25718c523af2ad89f5ddc3fb1d1bb469394a70c4412eb2dc664ade2346e99eb63f9b6d193533fe26ff521f85475d1bdbbba9f2682320
+Description: Brings iOS 12.2 style About page in the Settings app to older versions.
+Name: WhatAboutThis
+Author: PeterDev <djperter@icloud.com>
+
+Package: com.peterdev.whatabouthis
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 160
+Depends: mobilesubstrate, firmware (<= 12.1.4)
+Filename: ./debians/com.peterdev.whatabouthis_1.2.1_iphoneos-arm.deb
+Size: 6434
+MD5sum: 1e6d1e85284d61d527ec36e8bb11e36f
+SHA1: bce5e50e4c68c5c8a7676ff7667e7b376a1d7199
+SHA256: ee8af2932ac4799e53dc8e2873f8802e82c1c86ad8dd554e1ce5e67070d76131
+SHA512: dc288c01bf0d76594479a6486f57bf27f887b233afcc8d3874b65c39c372c9c7808cfff18ddaf82f2056b67a63c9d8294426a30b0296aaf7313f7ed25e19b81c
+Description: Brings an iOS 12.2-style About page in the Settings app to older versions.
+Name: WhatAboutThis
+Author: PeterDev <djperter@icloud.com>
+
+Package: com.peterdev.whatabouthis
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 112
+Depends: mobilesubstrate, firmware (<= 12.1.4)
+Filename: ./debians/com.peterdev.whatabouthis_1.2_iphoneos-arm.deb
+Size: 5234
+MD5sum: 87f9a93cc7173a20f71c3c79534c9a76
+SHA1: 947057ab0bd7ea075b44dfa759a37ebf3e7ed446
+SHA256: 30dee89eff9f3e198a8c98f081724278e2ab2a7ce989d96272f3e7ba3f179178
+SHA512: 67402b428713d34081aa06da7227d4a0972ded7b073efe6ccd416ea824895a322aef6d7b25c22aeee19b6545aa6987602d889e7508a96834db7853082d3eef2a
+Description: Brings an iOS 12.2-style About page in the Settings app to older versions.
+Name: WhatAboutThis
+Author: PeterDev <djperter@icloud.com>
+
+Package: io.ominousness.ass
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 152
+Filename: ./debians/io.ominousness.ass_1.0.0_iphoneos-arm.deb
+Size: 5352
+MD5sum: 4f9c4864ee9eb3555eb3e5ec72a7c336
+SHA1: 0b014a8265d3081db9adf6a96ff4310683224fbd
+SHA256: f34a0f92522b9b8cacd3ae1346ae69c228fe51bf2a2db24afa405780494b9638
+SHA512: 157aaaa21d9cf61f7fd7d5ae63560b3ee933fb942fb9fea8b8b7c986f18cd03f2146c462d13c0bfd3303b6516bc34426f60bfefa1a0302bcc03129d6396c64e1
+Description: iOS mediaserverd hook to serve snapshots of current audio buffer via TCP/IP
+Name: AudioSnapshotServer
+Author: Nepeta
+
+Package: io.ominousness.ass
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 152
+Filename: ./debians/io.ominousness.ass_1.0.1_iphoneos-arm.deb
+Size: 5760
+MD5sum: ec8351cc96df6443c985c96d94526f92
+SHA1: ae6841826dbf6077b9256d55f3eba159197b86d5
+SHA256: 138ec70652f4b756128dbb24fc52013f010f3fb0f68c4e8cc5675753f7508bd7
+SHA512: 4793fb5d617a0abc240371fecd76b895a68a288a33caaf87ac2ef9a090d03aef3636a1a6d93b726e6a18d6b90cc0aef73c7eb4daca821e48630e6f280d9c0ae5
+Description: iOS mediaserverd hook to serve snapshots of current audio buffer via TCP/IP
+Name: AudioSnapshotServer
+Author: Nepeta
+
+Package: io.ominousness.mitsuhaxi
+Architecture: iphoneos-arm
+Version: 0.5.5
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 644
+Depends: org.thebigboss.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11)
+Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta
+Filename: ./debians/io.ominousness.mitsuhaxi_0.5.5_iphoneos-arm.deb
+Size: 62696
+MD5sum: 865db6c18b69902a80687768da0c4fb8
+SHA1: 4bd2316f4a6e5edcdd649d177d97df400b66200b
+SHA256: 822d4241e63efd0f226a0c5024a8d71dec5252f3bccc77558f701c530f923912
+SHA512: 0ecd7989eb9c15cf6a1e4e471e762d4c55b2d875ecd069e8211248b2a8db66e3706d022ee083c78ba9ed451679ddc63704bbc9fc795d5e771e89ca28fcca3303
+Description: Universal iOS 11 audio visualizer
+Name: MitsuhaXI
+Author: c0ldra1n & Nepeta
+
+Package: io.ominousness.stackxi
+Architecture: iphoneos-arm
+Version: 0.5.5
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 488
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<= 11.4.1), cy+cpu.arm64
+Conflicts: com.ioscreatix.intelix, com.ioscreatix.intelixbeta
+Filename: ./debians/io.ominousness.stackxi_0.5.5_iphoneos-arm.deb
+Size: 61416
+MD5sum: 51e989533806aa02e975ae60d6d3a022
+SHA1: d6daa21787e31ca46b7a9956cb4ac3364d79fd8a
+SHA256: a8315da16c36e91619d8b814c6dc8de502242c38274fad8d00d995070bacf7f2
+SHA512: 9529d7b224a63b7533faca412a645d21118f2a90ed522faa9c4bd58f5462f90d84ef2ae370ede49e82e060178efeaf96a1664339b9e2f08b2dccc0e46d1e03f1
+Description: Grouped notifications, iOS 12 style.
+Name: StackXI
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.aesthyrica.twttr
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Aesthyrica
+Installed-Size: 1212
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, com.creaturecoding.libcspreferences, firmware (>= 11.0)
+Filename: ./debians/me.aesthyrica.twttr_1.0.0_iphoneos-arm.deb
+Size: 176100
+MD5sum: ecf92e0dd4ebd6b28782db30123387a5
+SHA1: a4ac062286d18c7f19cf2e467f73b162119361df
+SHA256: 18edfce0c43f80ee8f443d9547696007a87c9602c903be1464bd23417b91e093
+SHA512: fe10aba54791f3329e0c2dac442bc596646b9e554cd7d89d23bd00473fd1d9d550dd33854c52624d52bf146f0970658c080d94f50e1eecada138360048832f67
+Description: Introducing The Most Advanced Colour Tweak For The Twitter Application
+Name: twttr
+Author: Aesthyrica
+
+Package: me.aesthyrica.twttr
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Aesthyrica
+Installed-Size: 1388
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, com.creaturecoding.libcspreferences, firmware (>= 11.0)
+Filename: ./debians/me.aesthyrica.twttr_1.0.1_iphoneos-arm.deb
+Size: 195674
+MD5sum: ce47cb0a8774af4b8860fe20b91dd2f6
+SHA1: 24a955b5efa31372e9094c75d42dc11d9f82561d
+SHA256: 8ce414b349af4f411630cbe0f26057ec30af1af1353916c41c665d6052504e64
+SHA512: 523a21ce8802872eb38f4e3a7e363bbaff442653bddc71097658179d745a01a11f547bf4e3fb647cd162ebac84721aa5dbcbee0f5f61fff80fe065c4f2acb6eb
+Description: Introducing The Most Advanced Colour Tweak For The Twitter Application
+Name: twttr
+Author: Aesthyrica
+
+Package: me.aesthyrica.twttr
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Aesthyrica
+Installed-Size: 1420
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, com.creaturecoding.libcspreferences, firmware (>= 11.0)
+Filename: ./debians/me.aesthyrica.twttr_1.0.2_iphoneos-arm.deb
+Size: 202732
+MD5sum: 75ef013be6796bb1fe294327faa29847
+SHA1: 7ec2660a07671b974c410601c70126ddf35b885d
+SHA256: 1a42036d651fd07ef4648206895282b552cc1f224a1c0baa697ed090c9d89e9d
+SHA512: d294b80005b509c774558a1a7f784f2f43f995d088c662c4b898ea499df8f320666c9f89eeb297cc65b4325d8cb86b72639fd3c781aaddb5ff0aba66d3e95067
+Description: Introducing The Most Advanced Colour Tweak For The Twitter Application
+Name: twttr
+Author: Aesthyrica
+
+Package: me.aesthyrica.twttr
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Aesthyrica
+Installed-Size: 1468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, com.creaturecoding.libcspreferences, firmware (>= 11.0)
+Filename: ./debians/me.aesthyrica.twttr_1.0.3_iphoneos-arm.deb
+Size: 211024
+MD5sum: 643865e45028ec053d4bfe115e469d93
+SHA1: bfd6cf27f9c751875dcedcaa7c45f00dfa3bcfb9
+SHA256: 2735778c721a62aaa84a40e621a0c26374fd9424f811efe3c80612662f43ccc5
+SHA512: 9cc5d39fac2a587b2feaa7ae79cdf2d2da3a482035455cbac57c5353b24e57c1e7d66b9f5575dcf62ff7299703cb17023024bc97aa4bdd30181ccb5af7c9950d
+Description: Introducing The Most Advanced Colour Tweak For The Twitter Application
+Name: twttr
+Author: Aesthyrica
+
+Package: me.nepeta.2dock
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debians/me.nepeta.2dock_0.1.0_iphoneos-arm.deb
+Size: 3144
+MD5sum: 66e54db31edb184f712dd5821cd88713
+SHA1: 5f4d5492d6d9a2823ce864cc7df19844b2be72df
+SHA256: 8929f9645cdda08a19bc1209ae5bf2a8e2101ac0f4b24d2b5fe536c8aff74a4b
+SHA512: 54d3b9121a7913d030f0bac3979138542aedf74513a4b49564b1958a06649eee059d70b879e4981cf69b4f4b8df805e85c7ebeb6d11bad3992bb11370d611518
+Description: For when 1 dock row is not enough...
+Name: 2dock
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.nepeta.2x2
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debians/me.nepeta.2x2_0.1.0_iphoneos-arm.deb
+Size: 3394
+MD5sum: 8e5c0aaa6cacc557ea70b22952dcb445
+SHA1: 119420d9a745beb31c9e9fef955b481d61139957
+SHA256: a63bbb4ad481d1ff6ef8feb942b131a93c1ba8d37c1476fe6236b3afce1f9c02
+SHA512: d7ece60e98fb1e712afd70a0d5f75dc83736aa4499b302ad96bef4bc3f24deecda78bbf0fbf84279911093a5f30ca4dfe89e9362487271667b4fd2f46ddb97b2
+Description: 2x2 folderss
+Name: 2x2
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.nepeta.2x2
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debians/me.nepeta.2x2_0.1.1_iphoneos-arm.deb
+Size: 3390
+MD5sum: faaa56ea373cfcb368c58ea40ef6e3f1
+SHA1: dbd380069bb88fb6a604916377ba25c0312d75a1
+SHA256: e704bc0b10f702aed819109ce762c212273918f77b718dc635cd41b18066bd30
+SHA512: 54314f768582b941546948f0dbbfc80501d5105d3d25056eed95bd36b7f78be548b23fc2d9ba7497c617b5498d41cb80ddb062b3ec4c9c1328dcfbcf703332b5
+Description: 2x2 folders
+Name: 2x2
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.nepeta.astolfo
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 984
+Depends: mobilesubstrate
+Conflicts: me.nepeta.haisiri
+Filename: ./debians/me.nepeta.astolfo_0.1.0_iphoneos-arm.deb
+Size: 936952
+MD5sum: f35d84621a12c62f7cbd46abfcb094c5
+SHA1: a5533b759b64bcccff765dab01a96eca9e5499bb
+SHA256: 8a78689e6dc09a202fe7c898528135381fdac9c55b520b872afade6cbcb8022f
+SHA512: 6d9d887c6ccf0e5a650c0ca816e91ba0ebfc739063d97b18b8d4c7b7c00caa546fe7063cec3d03119105b905f79873bdd3b2e43d8a136b3849779c19acab27ab
+Description: Astolfo Siri
+Name: Astolfo
+Author: Nepeta
+
+Package: me.nepeta.astolfo
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 984
+Depends: mobilesubstrate
+Conflicts: me.nepeta.haisiri
+Filename: ./debians/me.nepeta.astolfo_0.1.1_iphoneos-arm.deb
+Size: 936938
+MD5sum: ce290d5ea02e04221a1f9ffc3c9c9a5c
+SHA1: dd236a49ef632162439c6ec05957b69754c819af
+SHA256: 295aea5ef921a04f343c8df7a31ab9766f80d6b8bfafe2e5080539dcb8baf110
+SHA512: 5ed3d28500c0b1b0974c24fa4dc166be12a0ee91680b1320280fb7d449050d09cdb79e056351ea670f5b5a606c7b44587802a54ac17f71fd42fbe1a024b6ee0b
+Description: Astolfo Siri
+Name: Astolfo
+Author: Nepeta
+
+Package: me.nepeta.astolfo
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 1048
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: me.nepeta.haisiri
+Filename: ./debians/me.nepeta.astolfo_0.1.2_iphoneos-arm.deb
+Size: 938030
+MD5sum: 3ead01cfc86f9a1232a2ba93f49bb3aa
+SHA1: 2fe53cd653137576209ba1d21f1483903809ada1
+SHA256: 57fb1fa7ecc0d333484a823098fcda87b9c4a0dbee91d7176c61902fd7050a30
+SHA512: ae2e77bb0a0608338f4d47222481143fc6cd28db8e50dec99a0119277a7a4921c7f2d75d298be73af48392593f08bf17b691b142453d803b00cf26d8980fd0d5
+Description: Astolfo Siri
+Name: Astolfo
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: com.spark.hyperion, io.ominousness.stackxi
+Filename: ./debians/me.nepeta.axon_0.1.0_iphoneos-arm.deb
+Size: 111768
+MD5sum: c77f7871dc4b63af678eadfb34ea92d7
+SHA1: 35ef8a9990f5facc287dba204a716dddabbfd73b
+SHA256: 33d816f460b2bc00ffdceb5588b754c834357e473c2d90027f082beabe07a9dc
+SHA512: bedcb236abccc35cc8f46e77af2bfbaf92a133edd7437c5bf101065dac0dd5bdb0046a533f315b6bc68146eaf0fd9b8825b290885f9c8f0b8970e332bafa45ad
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: com.spark.hyperion, io.ominousness.stackxi
+Filename: ./debians/me.nepeta.axon_0.1.1_iphoneos-arm.deb
+Size: 111202
+MD5sum: 1e28a138314b959ffe9a346e0b6f159a
+SHA1: 56e29a560c24ed2b6a984e64ab3ca433015217ec
+SHA256: 7c0454b0db19dc17be79b31b8d48fddc9c56fc0ee6a336e4d7231da6c3e66cf4
+SHA512: afae3f8a309d3fe7f6863c8d92cb1737d05a6ab598cddc5ddc5f9fbc811bf135530c7d2ab8bdc8ee2ecffe13ea51f5dc4118543a7ca6bd50b6069a995b12ef8d
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: com.spark.hyperion, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10
+Filename: ./debians/me.nepeta.axon_0.1.2_iphoneos-arm.deb
+Size: 112208
+MD5sum: 6f05c985f9e8857b78b2664f2ca266c0
+SHA1: af967065fd8b8e10e9058cf0f2d04e67ae0f7407
+SHA256: 02c18b62b00aebb4a738748141039a9634bb5121f9cfe33f5a3320e38df9715d
+SHA512: f0307a2c710af3320b76bb52f030a0f7086bdb7db68f565ff6a77b7f7b778653d233a145f718e515a0a9ad41847d068387d11984995ed904a210bc6e27c01591
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.3
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: com.spark.hyperion, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana
+Filename: ./debians/me.nepeta.axon_0.1.3_iphoneos-arm.deb
+Size: 112892
+MD5sum: dafda347ad26f1bd5328cdc31afe5684
+SHA1: 22af84e0e2dc118d138bab03fba3b0195996e6a5
+SHA256: 6c61404d455b4b0029c22a50af2c8f630c2c10736266bc39f4d2b8598a3ca918
+SHA512: beaa365b04a435501a88879aac9f43e830f8e8fb729375cc84d94fe7d874d13547715d1c9c3c7a6384fafa84fb73a17bbcef9c7727d54dcad01c11cbd46fe970
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: com.spark.hyperion, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana
+Filename: ./debians/me.nepeta.axon_0.1.4_iphoneos-arm.deb
+Size: 113154
+MD5sum: 7f07224a4cadc665f5d3b3c0488a2afb
+SHA1: 1a8ea13c98df6410b01b1127e7efac4ad37bd26b
+SHA256: 41a7b3b988a34ab901a261329d44f8cbf328d1e92dec6d1120ef26e61d771bfd
+SHA512: 38ea7d8c2f1037b57ac3debfc4b228d6e9a9a12988570e278ae28573fec1b37a3e46b6c6de414dc9bc0bed9357288f6a3793fe1e6db1ab6d76acd209799d3eca
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.5-1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana
+Filename: ./debians/me.nepeta.axon_0.1.5-1_iphoneos-arm.deb
+Size: 114796
+MD5sum: 649069f4634c2fb017758eb7e1701f3c
+SHA1: 8a7b3e71bd68b394354f6006d8ba4cae8e85c937
+SHA256: 1ccbd0e53909ff8a81d516d2ddd375fcf974b2285af74a880806b6792e9cd2ae
+SHA512: cc887fafdc4085521ae7b61d1b1bd4647d7af161246c5e27d434b5891c7be1a287c8ee8fb8e6f49e6c2b938584f1e51ccd84cedb502f632f91fecc99e81f3f12
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.5-2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debians/me.nepeta.axon_0.1.5-2_iphoneos-arm.deb
+Size: 114944
+MD5sum: 5df8e3aebddacb066cb10b39f4ba52f4
+SHA1: d04fa2522b68caf8d9a538dda1028079de64e3a8
+SHA256: 4dc29975d47d340ebc1b61a10dd1bb7f55b9ae9b4a3308aa7b78a0ff534aef73
+SHA512: 3480d487a8b83ac1a24db92c5f0e313af5eaef3da2d37209347cc62802eb324475e4801955123ea7c34ada54116ce00fa3dc3cf2923e880d5a36d3a22d648694
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.5-3
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debians/me.nepeta.axon_0.1.5-3_iphoneos-arm.deb
+Size: 114920
+MD5sum: be0acde6c121f0897a3c71e1642b6cb4
+SHA1: d541403bc61d5a00206d499377e24948e1761187
+SHA256: 9d6dcbcee3ede794bce5ff0fd3174884f584043cb18c2fdb60609839a7d6b227
+SHA512: 569f006089ad1ad9cd539ae08d1d353032da4018b931c801c790a30125a491246a17f9befc3b4342f58e1c15c0e036709d8ec368033b2b252989e029fb647312
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.5-4
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debians/me.nepeta.axon_0.1.5-4_iphoneos-arm.deb
+Size: 114848
+MD5sum: 4429e0aaf673ec77c793f257f39bc0cf
+SHA1: 53e7589e68bdc06fc49bc78ae0a1f9db43d0c4b5
+SHA256: c4e09210cca85a79980ccbf880a94cd74ed2d788b6e7b7329e99166905c2e57d
+SHA512: 0ea063811e7a2a5c584cafae80cdedb0b0e26163be7c02490fc21aac5c890c1679e9a9b10710f18256d2fb9ad2f1448aa1e8c871b707ddc4ce4c8a5e2628bbd3
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: com.spark.hyperion, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana
+Filename: ./debians/me.nepeta.axon_0.1.5_iphoneos-arm.deb
+Size: 114712
+MD5sum: 285b1703350c01e84cdbf3df69864ad2
+SHA1: 3db4965b7d96c702b08eee3f0361b2cc9787137f
+SHA256: f291e25ebeac82077cef3d549f242d67676c382ced060556667ac09efdc95b17
+SHA512: ad8ecb1a387a4817afd28fb2ade3d29674559a569688a018b6977c402feb03843cb17bf44f37a07a47b5df1b66cf48ac8bdc34fa04b4d4468efbd0f7385464af
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.6-1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 500
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debians/me.nepeta.axon_0.1.6-1_iphoneos-arm.deb
+Size: 118258
+MD5sum: f0b875247dff6fe0dc3ef30906d12d11
+SHA1: 713fb6db4740e2dc7a1be529b460525b88c460ee
+SHA256: a860f38aad07e341b4231756148727ca09bbba50e9c13250945f1c1bbe408a42
+SHA512: 175f26e0e1f02979c9f592fcf403adc6b7a771ea393ced1dbddce08e403dddb4699f45b54a4c7d816e37dbdbb8db7274646310d4b6448e877e78e309eb30c354
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.6
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 500
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debians/me.nepeta.axon_0.1.6_iphoneos-arm.deb
+Size: 118444
+MD5sum: 1e873c1afabd31041aa9fc2595a6755a
+SHA1: 2f529a01aed8720a38b2298e437a8151d4f0ae97
+SHA256: f915b21739b10fe417213a8c6c96910b4f6c7e895271b1b9a71eb793a055fa11
+SHA512: 2afc2b9f69a06ea7723d0c6d17f3d7791ce807c22115662917e6c410883741ef3999215b5a6b70909808cd2bb113ee753a2aabfbcd5b80074d634bb858b906e2
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.7-1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 504
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debians/me.nepeta.axon_0.1.7-1_iphoneos-arm.deb
+Size: 120018
+MD5sum: 73d60214f68b0c2f261b8ddf61fe8142
+SHA1: 0621836dede9acde249c457e55a609692a457d2f
+SHA256: b9c815bb88f80eb72a31e12e98b9778b2cbef4892bd760462061e89bb05f9dbd
+SHA512: 5ff3d71a23d431f194c4d83eaea5c6a9db32eb4615d838f0b31dd229d8a0088249c9b3bd92d3badd09b56080eeb08797118f8313eb12b553e54bc1c6fcd4ff46
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.7-2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 504
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debians/me.nepeta.axon_0.1.7-2_iphoneos-arm.deb
+Size: 120710
+MD5sum: c81efe525442e51f0b665887f8a5b2f5
+SHA1: 4deadfd7c4ce44cbfe88403312c239b2789f0978
+SHA256: 39136f2e320e96dcb59ad07b8369647c8edd02aa35c56cd2cce480b6c41e27af
+SHA512: 860e14fbc9fab8d96eb9f08cffe63044fbe6b93bf1af6d3d00852c21fc09508c6a107fb04e7e73fb1ca45cb00dd74ee3aa674bac2613ecdbac24e3e7656dfc05
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.7
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 504
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debians/me.nepeta.axon_0.1.7_iphoneos-arm.deb
+Size: 119910
+MD5sum: 769922b89ec707f98061d7d08138e9c3
+SHA1: b330621aac87513e83ca3a1ca289415a3b7fe5f0
+SHA256: 2f77d240d964c12a5610cf49526d2d151901f2e0cb69fc12371e790b223778e9
+SHA512: a5e1818e7b92c1de1dc3de87e2c8f6f46896c16dc8ec3d9e12c17d761a92c1be7f59422d3359b4247638cc31112b94b645908e71fd658601b88f53aa33ace1db
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.8-1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 500
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debians/me.nepeta.axon_0.1.8-1_iphoneos-arm.deb
+Size: 123110
+MD5sum: a4cbdec40f322b5dfbf1dd958b0abd2a
+SHA1: dc44529fdb72eaecc70aa2b469d745c771e8a5b9
+SHA256: 6da1e7ccca4a1fd6bddefe70e1ab3fd664c1bb3a4334fa239ed8893ac19e9300
+SHA512: d80309f482d96f65f18823e645de012991a8433d030d093bbb90522241d676adcbf375a4995ba962333dfea7755934db167b53c1cd3b0d22849bbbce235b9e62
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.8-2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 500
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debians/me.nepeta.axon_0.1.8-2_iphoneos-arm.deb
+Size: 123328
+MD5sum: 8fb3fe979234b3ec3c225fcaeebefbc2
+SHA1: 1ae414b82ee7b21fe6245f72301dfb8ef54c83df
+SHA256: f2910eb12a759c4981a658913a12ddc6714745d8e7ae2b5025a263eb87312f52
+SHA512: 4cbda80a0aaba0be0411f542d9aba3668deccc2884a1a32abb8e17d252adf9f7e0e38eb0c2958b7b7d72ac0c1e7b3ccb0841988687b034ac4abbc2f9a1fee1a9
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.8
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 500
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debians/me.nepeta.axon_0.1.8_iphoneos-arm.deb
+Size: 123144
+MD5sum: 843083c4bf45147b09ede4c4ccc4a790
+SHA1: 8cfa9e187b3bfbcfa026698dba9748275a9426c6
+SHA256: 2814d8e39a32f963a85e367d3b935c5735f38055a5df3cb2d1f24ff403f58b20
+SHA512: d7821b48d6eec1828f7ad4918e1fac09826f8afec42515e0030787148ddfbf5c373e58ad87954d446622f94e7ccdc25c733e4f1eb7e36aa4885dcaa42163ac94
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.9
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 508
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debians/me.nepeta.axon_0.1.9_iphoneos-arm.deb
+Size: 125674
+MD5sum: 65638ec9df38f56b39b4bfd8c3271205
+SHA1: cfacd6840a6b6e10639c5fc0db7b0ba0e1af20d9
+SHA256: e1ee42c64f9fffc3e8d39312d7185f4a1a915962dc02faf75553f66dcccb3c1e
+SHA512: 02dcc0a1cb3c49f3e86847f130d0319b66762e72c893232fbe86e3873f17292e9eda28ddb5fb0e5ae58bb5232403a6118f8101309995ec70d04d8be471eb8183
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+
+Package: me.nepeta.begonecia-10
+Architecture: iphoneos-arm
+Version: 0.2.1
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 412
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, ws.hbang.common (>= 1.11), firmware (>= 9.0), firmware (<= 10.3.3), applist
+Conflicts: me.nepeta.begonecia-11
+Filename: ./debians/me.nepeta.begonecia-10_0.2.1_iphoneos-arm.deb
+Size: 54292
+MD5sum: f281da8e26f9ff1ab697a01672b5e2e5
+SHA1: f25b6c5c8cb0d799a40bc7b05157fe910638b6ff
+SHA256: 939e6efc3d1114fe87889b9ad691663b6cfe5901e47ef68c2ca79f3948c1c9a1
+SHA512: d6c2743bb5130c03469d3e4329b046e965ca47378c3865b12b8d170d0f596062809c998ac14f7c4aec534c8f81d156322cb6835eb3673d0505da96d6acfd9b0c
+Description: CC toggle to disable microphone, camera and GPS.
+Name: BegoneCIA (iOS 10 and 9)
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.nepeta.begonecia-11
+Architecture: iphoneos-arm
+Version: 0.2.1-1
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 604
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<= 12.4.1), applist
+Conflicts: me.nepeta.begonecia-10
+Filename: ./debians/me.nepeta.begonecia-11_0.2.1-1_iphoneos-arm.deb
+Size: 54458
+MD5sum: e76a9d04ccb676855fe8abad139f893e
+SHA1: 014a157f484a604ce07982a54f0caab23a935377
+SHA256: fafe26dbb2a796c6d3e99cc1c5ae89e0ff8f06cf1267beb502758640db053c8d
+SHA512: e32b926fa9454fc39a7fb1e3476cabbc435e63514c93a054c8772f90f3ab383007df93e33f6d3731143864b385f10e98ca531944571f41e9b2244af25024a1d8
+Description: CC toggle to disable microphone, camera and GPS.
+Name: BegoneCIA (iOS 11 and 12)
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.nepeta.begonecia-11
+Architecture: iphoneos-arm
+Version: 0.2.1-2
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 604
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<= 12.4.1), applist
+Conflicts: me.nepeta.begonecia-10
+Filename: ./debians/me.nepeta.begonecia-11_0.2.1-2_iphoneos-arm.deb
+Size: 54336
+MD5sum: e4fcd3e227531662ace0d0c902f4bd6e
+SHA1: 2a7c8f969d5784e296da2d0a1f1f74aa30152f55
+SHA256: 29510085e1b4491e82b69f839d16a8a0e6883b9f98eaa447e183f3ac87c3ebec
+SHA512: 70f00a1678446ffdf8f3dfeee0714db9f46c541fe64f3a902bb6640939cda8e010c4464eb0090d2a85ebc200951cd890ec1ff1305e7c0ae57b6a3c80ea71cf81
+Description: CC toggle to disable microphone, camera and GPS.
+Name: BegoneCIA (iOS 11 and 12)
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.nepeta.begonecia-11
+Architecture: iphoneos-arm
+Version: 0.2.1
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 412
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<= 12.4.1), applist
+Conflicts: me.nepeta.begonecia-10
+Filename: ./debians/me.nepeta.begonecia-11_0.2.1_iphoneos-arm.deb
+Size: 51038
+MD5sum: 8e3222b8552ca5f97c4939973b938d0a
+SHA1: ed90e4ed51b6c17f98126f91528f521674e6edf5
+SHA256: a4f1fd25fc331a92a762c58698662c0984e81462bdb28e15fe6f9f899407c934
+SHA512: 80a484394f9320539750a22915e9eb89698b194efa04e19f93d9ff39b32dcbff6706b00c6cc533ac1a5cf9fe6c4ee55de475c359bd9bf152d7cc0cca0794170d
+Description: CC toggle to disable microphone, camera and GPS.
+Name: BegoneCIA (iOS 11 and 12)
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.nepeta.brokenhud
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debians/me.nepeta.brokenhud_0.1.0_iphoneos-arm.deb
+Size: 4312
+MD5sum: 06f4cbe11add1c79fb7f75432b07fa3d
+SHA1: 64a07f2b79f31ff4c5abcd7063cec4d9c890a567
+SHA256: 809ff6c68bf583281ad71233b20a41380860247d909df65fbe7bb6d5b4909c17
+SHA512: 14832d422bee2a714e432abe06c06d2cb6ab8ddd63d785ca02ec120e14a6404139d6832b821cdcae2361cd90c6fda246ce5d86a3160656193bff606da129cee4
+Description: Makes volume HUD look broken on purpose.
+Name: BrokenHUD
+Author: Nepeta
+
+Package: me.nepeta.brokenhud
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>=11.0)
+Filename: ./debians/me.nepeta.brokenhud_0.1.1_iphoneos-arm.deb
+Size: 5686
+MD5sum: 15918061fe0ee50941e85b4506c611aa
+SHA1: 7888425f1b125f86ac92a4d43eafc6a892ba986a
+SHA256: ff1812f2928f02abe5868be6feb37efe33e5527f5b796e3d6c04ec5d133a4de3
+SHA512: 1c5bcf64f8eb64962c5d4cb46b47032607be030d382897b12a305ddaa512864de07c47dfcb484a6d4673b1757095816b9bae003eab06fde343a36300ababf1b5
+Description: Makes volume HUD look broken on purpose.
+Name: BrokenHUD
+Author: Nepeta
+
+Package: me.nepeta.copypasta
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 376
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debians/me.nepeta.copypasta_0.1.0_iphoneos-arm.deb
+Size: 50196
+MD5sum: 64e41c2d971a3989a9e1d9b9f37781a3
+SHA1: 3056c6d07ec1f1629b3f43fb78c9dbbb1de356a4
+SHA256: 15b4c9691c0d945fbf0fd530c68c771702974e60c32183474db4f93106d8efd0
+SHA512: 67ee3f93973892f7f28dc56f86046fd91aa74cc9cc5d2dc1bd99736baa37d2071506ec661f287eb529e35f0e7a09076772d105d8e6d087aadc88df6bb9a503b7
+Description: Minimalist clipboard manager
+Name: Copypasta
+Author: Nepeta
+
+Package: me.nepeta.copypasta
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 376
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debians/me.nepeta.copypasta_0.1.1_iphoneos-arm.deb
+Size: 50336
+MD5sum: 035e3bb62b5567735d1fec4cc07564c0
+SHA1: f2cab7149a12e7fe6e894d7473a2d7b46ec984f5
+SHA256: ef42669f626522108658439b43e2df695e6ebffe5eee3c341e033c11e9ee3c7a
+SHA512: 563c5d675d5465b9e45e4b625d9dfc4229181edfe1d82d87d5c292d7f50cf64cb43c646fbc3314ad4ac193e3d2897f3719465cb2c11cf5314cedc95ab3fea9e1
+Description: Minimalist clipboard manager
+Name: Copypasta
+Author: Nepeta
+
+Package: me.nepeta.copypasta
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 380
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debians/me.nepeta.copypasta_0.1.2_iphoneos-arm.deb
+Size: 51064
+MD5sum: df14e66efa304ad5ddfd16a2f814e9ab
+SHA1: 9e409eea1db9b63765208fbfdbb67abdae4dbe6f
+SHA256: cd46f2a12ffd7c4df058df1e9243d1d14fd51d844704d005b9364f14121fa16b
+SHA512: 811b2a149ea7d0b7312afb7486479d130fbad7c867baaf8ed833f213a62d4e9784023176a45e950736532b42f0083e9e09cd1a0ddc5004d699e11f8a00247523
+Description: Minimalist clipboard manager
+Name: Copypasta
+Author: Nepeta
+
+Package: me.nepeta.copypasta
+Architecture: iphoneos-arm
+Version: 0.1.3
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 380
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debians/me.nepeta.copypasta_0.1.3_iphoneos-arm.deb
+Size: 51024
+MD5sum: 6b87ad96d6cf18f9f5c364a1c57391a0
+SHA1: f0cd0cfd5108b3b55e5f297be04d359d131bbb02
+SHA256: a0b4e254369d83cd9b3dc5757fd3c6d6f83e00c01ab271dd0d92131cd113f278
+SHA512: 1f6e8644330800b0fc8e2fd4c8677390d40f5bf42af8bbc94423539ec655171d488a5cb1fb8d98faa04049ca919e3873355d660229ab0357e1b2fcb747d441b4
+Description: Minimalist clipboard manager
+Name: Copypasta
+Author: Nepeta
+
+Package: me.nepeta.copypasta
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 376
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debians/me.nepeta.copypasta_0.1.4_iphoneos-arm.deb
+Size: 49846
+MD5sum: cd5eb4f30a3f71287ffbd5b84832ed2c
+SHA1: b1484c44bff8d31ff7aadb82911dd1bdbb1fd412
+SHA256: ce437e72e78cb5b4d19742e822bb2cd31fcade1370e17faac226af9bb0f60761
+SHA512: 7c89bd667d905d0c42182f69cc780435ab59c48d411821ea259ecc9d1c05bbda655a4992fafcc95f9a021712f20bcb6ca268d4fb120e12840413a6b57d978f2c
+Description: Minimalist clipboard manager
+Name: Copypasta
+Author: Nepeta
+
+Package: me.nepeta.docky
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 344
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), me.nepeta.iconstate
+Conflicts: me.nepeta.2dock, com.synnyg.floatydock, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Filename: ./debians/me.nepeta.docky_0.1.0_iphoneos-arm.deb
+Size: 37624
+MD5sum: 8fd90fef26e41ac6829bf41dc12f9084
+SHA1: 5e775a637936df54091f1e666a803474bc39efb7
+SHA256: f658a932e7bb4698ec0b21bf52b39dd6338c78c4e99cb87dbce6f0965319fbf4
+SHA512: 54e0e13fc53a28574f541d7e51c9a52e3003cf0eddb835a19e359791e57bc10b00d90ef0ea1004f86616a0aa7be6df350126a88201d4cd878b740339f09b2a95
+Description: Dock customizer
+Name: Docky
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.nepeta.exo
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./debians/me.nepeta.exo_0.1.0_iphoneos-arm.deb
+Size: 13308
+MD5sum: 1896b53c3019e06e2f7fd21e47e75673
+SHA1: 56594213793bef432a8f1b895650f3540b4bad5d
+SHA256: b3a448e31c29168a1b1bf4e79a91704164f35967a963b1d75e2489aaf91e3f08
+SHA512: a8a663264f4d063ea5d6e035c3d6b53a81ba53125b93d135d330db3b196c447d56c4af1729e67fb18071cc7e4bef81f1e9e5cf8ef9fda887fbf339e0597ed3d2
+Description: Information provider for WKWebView-based widgets.
+Name: Exo (Beta)
+Author: Nepeta
+
+Package: me.nepeta.exo
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 316
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.exo_0.1.1_iphoneos-arm.deb
+Size: 21160
+MD5sum: acce92daefc61a1078e54116d81aea90
+SHA1: 88c17c563c570e378751ae0275b35891e7a3adb5
+SHA256: f853ef7d96a2ea5cc94777ef5876c2297fe0bae17e1fbae3a6b6eabb1c9967c7
+SHA512: 16a9ffc23a555d085536b995424e26c69270ae85c586f85887d23e369bfe6dadd3f38b058f4b1f5feed6ba4a9eada86a8b95dad238ffd0af1f420ea35377606d
+Description: Information provider for WKWebView-based widgets.
+Name: Exo (Beta)
+Author: Nepeta
+
+Package: me.nepeta.exo
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 348
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.exo_0.1.2_iphoneos-arm.deb
+Size: 22120
+MD5sum: 0bb4f4bbaae4bf07f611b229060cca80
+SHA1: 56d597d0870ee7cb99c9dc5be4df5093b457ea06
+SHA256: ff62966b11fd55c34be9e6728718a538c85a702bb460abba18e16920e6af7fd3
+SHA512: 942098e436b2212b464946cd9edb8c73812a17ea23e51578eaff447c0de1d6c4ebd26d3b6a9df8a2e3d3e76909b0ea598f1e3d3d3ac4b9b6efe66e8b07dd4aa4
+Description: Information provider for WKWebView-based widgets.
+Name: Exo (Beta)
+Author: Nepeta
+
+Package: me.nepeta.exo
+Architecture: iphoneos-arm
+Version: 0.1.3
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 348
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.exo_0.1.3_iphoneos-arm.deb
+Size: 25632
+MD5sum: a944a889895e2a7814a3ccf5d89f47a7
+SHA1: 6d166525f13fb447ae54fe1436964a959bdacc19
+SHA256: fed7bc7bee4a1298598990737d26c39f6435ff4c6c12a73abf3419f227ed00f2
+SHA512: 283d853e474b8339bcd5e0c145e07c79e3c689bfebe1fce2ba763e9007b133bb07fcb30201d3cbedacd2f81e2e31b1f17e0b74d3cc96ec6a6fe470d18a361c42
+Description: Information provider for WKWebView-based widgets.
+Name: Exo (Beta)
+Author: Nepeta
+
+Package: me.nepeta.exo
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 352
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.exo_0.1.4_iphoneos-arm.deb
+Size: 31382
+MD5sum: 72645fb606a07010b0ddbf5770e1cc5a
+SHA1: 5e74a522c8f7be6ab50976c9f3464df8962c2c6a
+SHA256: 1ff4fce7c06b36253ce4c9c7f24977f6cace6e3d75b5a1c3f18832070a4c7363
+SHA512: 9af3cb159b3faaee7c4784280131adfd0c8a6a0f74638b925666b7642fa66455e1001ea529a79965b8825fd2f8c0453db417adf444b988405d4a8ba742e0c6fe
+Description: Information provider for WKWebView-based widgets.
+Name: Exo (Beta)
+Author: Nepeta
+
+Package: me.nepeta.exo
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 352
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.exo_0.1.5_iphoneos-arm.deb
+Size: 31282
+MD5sum: 2c9cf39a9dd4b23ce87c0ad063a85802
+SHA1: 5662f7018d01370109eeb2dbb42e8fe7425eab9e
+SHA256: a4d740f1ff21c0e09fb79d2740befdc8ea5b172804b16bdfe1bebc8594820f4d
+SHA512: 6571a33c5f94cfd3bb5b9ddbcee541e89ebf9880c65a25615934dd0f45f343e7e17a8a40f231900a2cac1e9df4cb9d99cd27de8e186c13a440f3edf49cc1ebb2
+Description: Information provider for WKWebView-based widgets.
+Name: Exo (Beta)
+Author: Nepeta
+
+Package: me.nepeta.exobar
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 100
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap (>= 1.0.2), me.nepeta.exo
+Filename: ./debians/me.nepeta.exobar_0.1.0_iphoneos-arm.deb
+Size: 7276
+MD5sum: e887612d8fa4e9f62d499a10f016eb2e
+SHA1: 9e20c5724c9dc1c2a0c2171ff0bcb2185eba9b23
+SHA256: 88658c787da6d524a62501bf0da58e39a88f98095bd213d61ed8a2a24bf5be4e
+SHA512: a3001c62abf90e4ee7c5e3e60d6d9b459a238b8244d9a1a4718a2eb56a663282f7a7bef2ecd3db169581f2cd1aee5ef8b0a8022661e5632cf273b4a832a2f9c0
+Description: HTML in status bar
+Name: Exobar (Beta)
+Author: Nepeta
+
+Package: me.nepeta.exobar
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 288
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap (>= 1.0.2), me.nepeta.exo, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.exobar_0.1.1_iphoneos-arm.deb
+Size: 21720
+MD5sum: 08655aaae9da8e66fac1dae1c9a56461
+SHA1: d4abe76697c40376580f10963c406319dff53a8b
+SHA256: c202bfcf91448397b5aa78180671cfde0ec100e1a6d4d7c03aa866b1d3c27e37
+SHA512: 2ea11062c0e653606303b1d50dc480eaca7d1840e31af36ad2d72ae65e1c816a4c2f5790fb76d7ca2404dbefad439a452c7a3f7a32655be6b94db06eff364141
+Description: HTML in status bar
+Name: Exobar (Beta)
+Author: Nepeta
+
+Package: me.nepeta.exobar
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 288
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap (>= 1.0.2), me.nepeta.exo, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.exobar_0.1.2_iphoneos-arm.deb
+Size: 21714
+MD5sum: 2dcbb01afc301c5a6427988db95add96
+SHA1: 6372780e911bf1fd6d493b21f4b0cbcf0e8ddb8c
+SHA256: 1500e2af0c8894449f76246e1c5127dcde12e6ecfa1a801b77ce99fb68cdba15
+SHA512: 7e0fb382343bb5d94e638e340b4b42c0908640edf66a007299edaabc30863e44ec07dfe660a7c41150bb19b7353d749334da809848647c743444a9e4f2e56399
+Description: HTML in status bar
+Name: Exobar (Beta)
+Author: Nepeta
+
+Package: me.nepeta.exobar
+Architecture: iphoneos-arm
+Version: 0.1.3
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 392
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap (>= 1.0.2), me.nepeta.exo, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.exobar_0.1.3_iphoneos-arm.deb
+Size: 55560
+MD5sum: 5bd893d0d0702657edff535b1d67e089
+SHA1: b02bfd3c51d62bd6d77082377c80f1361043df34
+SHA256: a816113a26bd5bc751777a18ae3c6f50ed200582f3ab6faa2cdfab621a6e9508
+SHA512: 6af4a5c49d835e56dcb44a77a94a9433045bfb4384adc5d2f6bd8aa3b8afc13b13489f3ea5ef35304ea3693be965fecf0342348fc49a786676fea26d028eda38
+Description: HTML in status bar
+Name: Exobar (Beta)
+Author: Nepeta
+
+Package: me.nepeta.exobar
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 396
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap (>= 1.0.2), me.nepeta.exo, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.exobar_0.1.4_iphoneos-arm.deb
+Size: 59958
+MD5sum: 0176fa2f4fabc7b5726ead8daa029250
+SHA1: 35a3456aea9c0af2716eddad4f964ec8b26557e0
+SHA256: f7277d0d14f7d4bd86fdecb1d784553761b8abf3dbdef5f8268d58831f3df3ca
+SHA512: 060bea683d34f9c8e9e0fdb7d5616bafbc1dd077e9ab8f5bdf6a8aca7b8601f91c252f9aa7fc571af86d5e6569615628b8d5186adc97d22cb889b76042207a38
+Description: HTML in status bar
+Name: Exobar (Beta)
+Author: Nepeta
+
+Package: me.nepeta.exoxen
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 136
+Depends: mobilesubstrate, me.nepeta.exo, firmware (>= 11.0), com.matchstic.xenhtml
+Filename: ./debians/me.nepeta.exoxen_0.1.0_iphoneos-arm.deb
+Size: 8366
+MD5sum: 388db596bba621752540a10ac7e1c727
+SHA1: 020977f011cdf986d0e6861e9c4127e824cb70bc
+SHA256: 4164759ac8a3640d822a30772e0205cb6950d19b982de1fce409294f17050f00
+SHA512: 52f4b4ad6a3e275aff112304408026395cd2f94622ab7bb8e6da31b33bfd56a242cf3d24d3e106932e18d94bbdd5d3209f06449eab263322c1bfd356389b8853
+Description: Exo compatibility for Xen HTML
+Name: Exoxen (Beta)
+Author: Nepeta
+
+Package: me.nepeta.flashyhud
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 312
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
+Filename: ./debians/me.nepeta.flashyhud_0.1.0_iphoneos-arm.deb
+Size: 27142
+MD5sum: d31f062a0d5652d61ef1f0cca69bc39f
+SHA1: 9e434ff05bda9debbc996e1a0025edea70f397bb
+SHA256: 28dd850d0393dd9231f2492816607c6387404063ae8ada5902fce02ed7c37869
+SHA512: 04b4d906e539c19b78fece3bd4860e708b17b9b7475699d66b6aaa7be1d8fd27045ef69cc60b5e52e073800a7959e6dbb9289256ae5ca55267a2f22c688ceafa
+Description: Minimalist volume HUD
+Name: FlashyHUD
+Author: Nepeta
+
+Package: me.nepeta.flashyhud
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 352
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
+Filename: ./debians/me.nepeta.flashyhud_0.1.1_iphoneos-arm.deb
+Size: 41436
+MD5sum: 074fe15c51b09a4420e3e49a3ed97619
+SHA1: fbc9aa8d70565b76df6cfd9809058b4d65d1b6cf
+SHA256: 26463774e79c25ccd7fc6603863dc086cfaecc212e7fc609ddcf491cf8635bee
+SHA512: 29e5fa4dd72e40c9e4def06054fb26ba50fd6fd7fad7ce71cfd54b0072f18b92a5f132871508a90f82221a6d6ec4d8809e340e586a551aa6e458767a23018253
+Description: Minimalist volume HUD
+Name: FlashyHUD
+Author: Nepeta
+
+Package: me.nepeta.flashyhud
+Architecture: iphoneos-arm
+Version: 0.1.2-1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 492
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, firmware (>= 9.0)
+Filename: ./debians/me.nepeta.flashyhud_0.1.2-1_iphoneos-arm.deb
+Size: 49190
+MD5sum: ba830be77cab01b14dfae4fc862c2064
+SHA1: 32cce84473df0b05868bea8159ee4d456af6da8d
+SHA256: 62008f94eed6cd82fdfea14d98a930cdfa599a4805b14cfd99a2ca5c71fd9b3c
+SHA512: 85f8d861fccee197acb18584726847efefe47ff23e69709901bf08a0807b3fcbdc2b95ecf1cf646cce67f6be9db357930a808406730e93d933191de6b70b8544
+Description: Minimalist volume HUD
+Name: FlashyHUD
+Author: Nepeta
+
+Package: me.nepeta.flashyhud
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 492
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, firmware (>= 9.0)
+Filename: ./debians/me.nepeta.flashyhud_0.1.2_iphoneos-arm.deb
+Size: 49188
+MD5sum: 5ae6e865c369334ec354222928bfebcb
+SHA1: 2bce587eb9392287b8234d17d8b6862b1295acb3
+SHA256: 9fff8f2245c19006bf93ace4ad48ddfcc8a3205e6cb66f0b0e2b9a85ea4b07ab
+SHA512: 0c71aef204d3114cf4978c32398ee8ec7617d1cb726f69bcd08e04a4c4a0fb51be5209a1cae006083cd535944451e9c678adcf21f03d387c48de405cf9f1bf9a
+Description: Minimalist volume HUD
+Name: FlashyHUD
+Author: Nepeta
+
+Package: me.nepeta.flashyhud
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 568
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, firmware (>= 9.0)
+Filename: ./debians/me.nepeta.flashyhud_0.2.0_iphoneos-arm.deb
+Size: 58546
+MD5sum: 022c34471cc8717baeda68359dce4c0c
+SHA1: 81d79f1a0b8cf21c5cf6c81b6f3fe7cc6f8e169e
+SHA256: 8619ed44189d90e2f62e5f05cb2ba2f7ad3f740afea92f5ee23bd7691c84696c
+SHA512: 4d32a6b8d6c8a12d7d009ee07e202c437a41170030359024b274918a3bfff6d31da7754019b5b6dc75eda1a84d6609815ddcaa8ce62332a02ec310082ee61ef0
+Description: Minimalist volume HUD
+Name: FlashyHUD
+Author: Nepeta
+
+Package: me.nepeta.flashyhud
+Architecture: iphoneos-arm
+Version: 0.2.1-1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 568
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, firmware (>= 9.0)
+Filename: ./debians/me.nepeta.flashyhud_0.2.1-1_iphoneos-arm.deb
+Size: 57834
+MD5sum: 3e0447cc2211333dad81944655fae7d2
+SHA1: fbfbf3ba60571587669816f5cc4cf33355dfcd87
+SHA256: 8d3bf11d30b2a89d003d09d1ec247033e56bed8223f1ae501ea341cbd2556baa
+SHA512: c1dfed899ed357cb9daec48bc35206874cdb8a70119aa9761a0caf587f2544b43204a72bf28d795be8f3c79401f5341d60fffe701d707b768f8e7fd2048598df
+Description: Minimalist volume HUD
+Name: FlashyHUD
+Author: Nepeta
+
+Package: me.nepeta.flashyhud
+Architecture: iphoneos-arm
+Version: 0.2.1-2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 568
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, firmware (>= 9.0)
+Filename: ./debians/me.nepeta.flashyhud_0.2.1-2_iphoneos-arm.deb
+Size: 57664
+MD5sum: afd5fbfa9c842f0892e80124c35d1190
+SHA1: 8473af490e0de90b4ac6c00e5a641317600671a1
+SHA256: ca16ecac15b916426869c6d84a9e0abf66f1d038685f17c8d48449d0c6bcd4ca
+SHA512: 5092b2291648f410bab02f1c9b9b4c0a20ea166b7b82696bbc6377d339a31021db8380aeee496b740499cd0958fb4c01c59197ed4495c4f794982373a3501f20
+Description: Minimalist volume HUD
+Name: FlashyHUD
+Author: Nepeta
+
+Package: me.nepeta.flashyhud
+Architecture: iphoneos-arm
+Version: 0.2.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 568
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, firmware (>= 9.0)
+Filename: ./debians/me.nepeta.flashyhud_0.2.1_iphoneos-arm.deb
+Size: 58298
+MD5sum: 0b9ab2c0473ef306f4ef21aff0c53a0c
+SHA1: 5609a549d9fed170f9f8a9553b4223c75c1c46be
+SHA256: 50ef71795bf982af0ee75f1e01d19355c7863e1108a6ebb8987c1d78672353d6
+SHA512: 8937474605a6614c7dfed7e857765bcd4ad0a8b81311cf7b473b96a8c8af07385807f8547e1ed28cbffcd469c806f301a8760e08e9abd5f512f024cca1b4c180
+Description: Minimalist volume HUD
+Name: FlashyHUD
+Author: Nepeta
+
+Package: me.nepeta.flashyhud
+Architecture: iphoneos-arm
+Version: 0.2.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 572
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, firmware (>= 9.0)
+Filename: ./debians/me.nepeta.flashyhud_0.2.2_iphoneos-arm.deb
+Size: 62292
+MD5sum: 4b212d27d40ad2605fff5600f2004e2e
+SHA1: 0c11f869ed6506b974414022e80da908b46df991
+SHA256: 99291766977a4034e828218e51e7149642083d376da4a77487ef38195e0d7abc
+SHA512: 0292f2298f724495d3029223379c8c0f530199fa9b93b1cf84cc2b58dddf43b88eeaaa3d0a10c820efe84c4fa6f4bfbec9d9410d0fdc85834e5ce0657859a716
+Description: Minimalist volume HUD
+Name: FlashyHUD
+Author: Nepeta
+
+Package: me.nepeta.iconstate
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debians/me.nepeta.iconstate_0.1.0_iphoneos-arm.deb
+Size: 4618
+MD5sum: 3e4b6beb0282378e2fe33d9f03da4cf5
+SHA1: e7e6f4f94e7067364c1d9059e9e65efae8b6e0ae
+SHA256: 24dfde881451a6285793e7d346ea7a58a6138112fc93c90a78847fec3ccb4aaf
+SHA512: 0cb1d1535f86323a0981e184f9190656a7db3c96ea6c63fbf799c4f9bcd76bd01763240320ce542836e0ad0d4f1b890a867fceb55f83ad335e4fafb634b94278
+Description: Preserve custom icon layouts between reboots
+Name: IconState
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.nepeta.konban
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 188
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/me.nepeta.konban_0.1.0_iphoneos-arm.deb
+Size: 10324
+MD5sum: ec1eb8176f29b5b45f56c3a273354390
+SHA1: 25f3a38795e6881ad431bdf61348acfe7925a2b5
+SHA256: ccb8b34e72558d28bd730cc62b72a464e83b1123d7f16af8d8a6df02326b028d
+SHA512: 63c86cd4adb72d7b6551b62dd561e7ffb1ad978103548c247917875e6db4ec9fa9255a0d46e081dcbcc20734a7a60a92c7d5c56e0bd7749b91474b50c0d2205c
+Description: Replaces the "Today" view with an app of your choice.
+Name: Konban
+Author: Nepeta
+
+Package: me.nepeta.konban
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 188
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist
+Filename: ./debians/me.nepeta.konban_0.1.1_iphoneos-arm.deb
+Size: 10324
+MD5sum: 743090eac1f0c19c6db12b5b883c5989
+SHA1: 8043653526bd93d37d75d130e352208148340af9
+SHA256: 2c6bacdcb0260aacb4d6c3f1a3557fa19d50af17ffcabd5e0519b2b8380abc0a
+SHA512: 31b43eec20c31eea0b44ccb596cf8121055b5a2a65068d52ffc191bb96cead3c909eb2c80902321d1bf7a66a5e69d55fd42b5a9363aa514b17229a4fdb43acfb
+Description: Replaces the "Today" view with an app of your choice.
+Name: Konban
+Author: Nepeta
+
+Package: me.nepeta.konban
+Architecture: iphoneos-arm
+Version: 0.1.2-1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 308
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.konban_0.1.2-1_iphoneos-arm.deb
+Size: 37658
+MD5sum: c42da2d4c7655281c9c36d93ceac8721
+SHA1: 0c969bd30d80e36aca19baebac31a5ba2f442301
+SHA256: 4bea33a5799364c3607747379e1a1ebc514aaffe20dff0907180a90b656f58cc
+SHA512: 5e98eb9a23ee919e356596b9d5e029f0e558ec26fde267b6e35378d18d547da68802f9b29dfe2ed2acd683d5da6161c07126fb50e753188274afc467d7f2e843
+Description: Replaces the "Today" view with an app of your choice.
+Name: Konban
+Author: Nepeta
+
+Package: me.nepeta.konban
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 308
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.konban_0.1.2_iphoneos-arm.deb
+Size: 37866
+MD5sum: 5356ecce2bdd82161b0495a0a19f0277
+SHA1: 467f54dd70c22dfd92dfd8c310950aea7d9179a0
+SHA256: 9e5f393011727633c8ef31bbafcf09b336ecb2d6b36816a7492e05e1d03fa7bc
+SHA512: 7ae351d11a20ecb7bec23f3a62dca906774543555175a3d85f92d6020fcf1e57daaf7f0792c44e44e9dcddadee5299a07647ec8432e4879d83acb152eed55e1f
+Description: Replaces the "Today" view with an app of your choice.
+Name: Konban
+Author: Nepeta
+
+Package: me.nepeta.konban
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 444
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.konban_0.2.0_iphoneos-arm.deb
+Size: 41532
+MD5sum: e27a23f92b7d0e23c20e6ad67e69f657
+SHA1: 0b0f0c12b23a9ab82f0efed2228f26a0b17394b6
+SHA256: 46e3c8dba3591ba36c8f059d02a7ea1e1451cca0679824454bcb380ca63b4be5
+SHA512: c0cc889e8d32445c68d8bf2082b5566689ee90f7ad92943057ec4bdf070623cd72f4ecead4e586982454cdf4deb8717cb50a164e01d2edc586c4fd777662058d
+Description: Replaces the "Today" view with an app of your choice.
+Name: Konban
+Author: Nepeta
+
+Package: me.nepeta.konban
+Architecture: iphoneos-arm
+Version: 0.2.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 444
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.konban_0.2.1_iphoneos-arm.deb
+Size: 42536
+MD5sum: bf260141ba72a2dffd488525f9da6aeb
+SHA1: 00447fffa12d0092ca6bcda7ea66cb418ef9e716
+SHA256: a3d11b2ad70d77b3e25ed71e31ff23e127162efa23f4667ef20e96f305414a5d
+SHA512: 7ac0e70444361cff8065d07ff41834e5fc800703f57f9fe2522cbc64122de27a38f16dfac5bca73c3ef20109e79c190cc3f7fe19cb7ba7ec0f598de93931fcb6
+Description: Replaces the "Today" view with an app of your choice.
+Name: Konban
+Author: Nepeta
+
+Package: me.nepeta.launchtron.action
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 132
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 7.0), libactivator, me.nepeta.launchtron
+Filename: ./debians/me.nepeta.launchtron.action_0.1.0_iphoneos-arm.deb
+Size: 10746
+MD5sum: 030041bbcdd3e044eab70a27f2ec72e6
+SHA1: 3bd58f9e9735c5e70357bd3bf95e3ae59088c95c
+SHA256: 750fb9b4d5f2432a7606d6117422333d2d79cb5ca910cc776692cfa3fe69f462
+SHA512: d0511a28afa2e8e7639c75d890fc08671de5ae6a8efb87a00814e34795343a89cc87c40d4fbf82ce1381527baa61df2e249ee7f4eb46c1d04bee30172c1added
+Description: Activator action for Launchtron
+Name: Launchtron Activator Action
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.nepeta.launchtron.action
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 164
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 9.0), libactivator, me.nepeta.launchtron
+Filename: ./debians/me.nepeta.launchtron.action_0.1.1_iphoneos-arm.deb
+Size: 11480
+MD5sum: 089e3068092c102f160f6679e77d8cc3
+SHA1: 43fc96804e5136d4f65976b8f76027e4d98ca691
+SHA256: 8afb0b01a0d1c561959cb309827dbdcdf19fa3b59eee46b1efd216b091451ff0
+SHA512: 484998052c771cddd53145e1f020a40d1e83847b318dce2539c454739ee360fd85c0a4ccd42e33f0811c449b7eb2a92e431510e9f26f7dccedf8b514ad58c7dd
+Description: Activator action for Launchtron
+Name: Launchtron Activator Action
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.nepeta.launchtron
+Architecture: iphoneos-arm
+Version: 0.1.3
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 312
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 7.0), applist, com.rpetrich.rocketbootstrap
+Filename: ./debians/me.nepeta.launchtron_0.1.3_iphoneos-arm.deb
+Size: 45992
+MD5sum: 5301cdc01a03f0670386529c1cea9fa5
+SHA1: e489e26f9d6d4436db438b878f6721fd45865305
+SHA256: acd3f6428266ec3cb8aefc952e1f57fdfde440c91790f1e0a0d03e6bb29ba7ea
+SHA512: e59857c4afd6ca6a4b586c0fbda5242345ca9c5f50b01fc83f31c880112e6306a623e4a790efe9869feac655c78eadfa9a8fc6ac8b6773fb08015db1b186a3f2
+Description: Fast circular app launcher
+Name: Launchtron
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.nepeta.launchtron
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 392
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 9.0), applist, com.rpetrich.rocketbootstrap
+Filename: ./debians/me.nepeta.launchtron_0.1.4_iphoneos-arm.deb
+Size: 51528
+MD5sum: ba7fc3f78ce963ed4799e60188760906
+SHA1: dc46c43a2fbe8af924ad25ffe92b4aa2f8655ddc
+SHA256: 4b4fb4c06a9e0f5d7acea40edd625f255d3b9440b41af212c55fe503ec8fe06e
+SHA512: 4d1ca9f2bb29e56c090b7b62a30f5cc90cdc79d2cf13e775031e58c55557df408c16bad646039da63847b7a8240d4ff0f559f28e5e1f8f1992f4e9fb09ae2c1a
+Description: Fast circular app launcher
+Name: Launchtron
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.nepeta.libcolorpicker
+Architecture: iphoneos-arm
+Version: 1.6.2-1
+Section: System
+Maintainer: Nepeta
+Installed-Size: 272
+Provides: org.thebigboss.libcolorpicker (=1.6.1)
+Depends: firmware (>= 11.0)
+Conflicts: org.thebigboss.libcolorpicker
+Replaces: org.thebigboss.libcolorpicker
+Filename: ./debians/me.nepeta.libcolorpicker_1.6.2-1_iphoneos-arm.deb
+Size: 37936
+MD5sum: bc97fb306965fad983fa2f56efe8711a
+SHA1: 3a287ebdebf9b0e706a1540e65529ad34e7f67db
+SHA256: bc8895f4b759fc5f5835aad3a8445cd789ab2e8a4a0876181af7c43bcef722ae
+SHA512: a27d636cf82c41b1327b0927610741d2d8bb2aede8f93594c373f4dcb6ec765aed3791d1eed926cbf2df9e7a8ba934fc677ff2070da0f4952e6e6d6540b7dba9
+Description: libcolorpicker with arm64e (A12) support
+Tag: role::developer
+Name: libcolorpicker
+Author: Bailey Seymour
+
+Package: me.nepeta.libcolorpicker
+Architecture: iphoneos-arm
+Version: 1.6.2-2
+Section: System
+Maintainer: Nepeta
+Installed-Size: 612
+Provides: org.thebigboss.libcolorpicker (=1.6.1)
+Depends: firmware (>= 9.0)
+Conflicts: org.thebigboss.libcolorpicker
+Replaces: org.thebigboss.libcolorpicker
+Filename: ./debians/me.nepeta.libcolorpicker_1.6.2-2_iphoneos-arm.deb
+Size: 104212
+MD5sum: 3aa2d1652571d4e17c938e42aeacfb66
+SHA1: 435e208a8e6fd9cb9ef0c54890cf93aa4737d1f0
+SHA256: f871afc4413bab6dc358512c8a304737f118e59684be93665c86c93be537eced
+SHA512: 149a7c2088f1441369e85a5e46236bc6c7cc55966949ca318c8b356d4a79bbc21470f35436a9a850602956256f0432824400fa52e30cf1756931e063481da2a6
+Description: libcolorpicker with arm64e (A12) support
+Tag: role::developer
+Name: libcolorpicker
+Author: Bailey Seymour
+
+Package: me.nepeta.libcolorpicker
+Architecture: iphoneos-arm
+Version: 1.6.2
+Section: System
+Maintainer: Nepeta
+Installed-Size: 272
+Provides: org.thebigboss.libcolorpicker
+Depends: firmware (>= 11.0)
+Conflicts: org.thebigboss.libcolorpicker
+Replaces: org.thebigboss.libcolorpicker
+Filename: ./debians/me.nepeta.libcolorpicker_1.6.2_iphoneos-arm.deb
+Size: 37970
+MD5sum: 7cf49eaecb9bb297be30a24e2a5f17de
+SHA1: 909e574bc0adb25281618e9234528480e6c89f30
+SHA256: db96175e0161bbf16a19d7bf2045a10fe442516fce4aa80e20d2f6e5755d0bb6
+SHA512: fcb661c547901522bee506e127fc7b045abf7b2b1766298517689d96c1fba5d1e9c1ca755826ba6d64e5fcc0f1188c9700b4f38557db6e8cc3cbfdc6982de096
+Description: libcolorpicker with arm64e (A12) support
+Tag: role::developer
+Name: libcolorpicker
+Author: Bailey Seymour
+
+Package: me.nepeta.libmitsuha
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Development
+Maintainer: Nepeta
+Installed-Size: 288
+Depends: io.ominousness.ass
+Filename: ./debians/me.nepeta.libmitsuha_0.1.5_iphoneos-arm.deb
+Size: 28018
+MD5sum: 1fd59b8fee2593ec87dc440ce8c65ccd
+SHA1: 87a580da345f005dca2a133c17b0dabde1de730e
+SHA256: 9727bfaed3e84e32ea094baa1d812290734c7a83f48aa43ded9ff40aaf64c5c0
+SHA512: 8542e2e816303e54c61fd3d22aebe4592133fa167da314811529f5013cb8bf5cbecd107efadac52d466333911ff9256b88ff7473d97e8db35a833bbb523a3223
+Description: Audio visualizer library
+Name: libmitsuha
+Author: Nepeta
+
+Package: me.nepeta.libmitsuha
+Architecture: iphoneos-arm
+Version: 0.1.6
+Section: Development
+Maintainer: Nepeta
+Installed-Size: 288
+Depends: io.ominousness.ass, firmware (>= 9.0)
+Filename: ./debians/me.nepeta.libmitsuha_0.1.6_iphoneos-arm.deb
+Size: 28052
+MD5sum: 6f78f50621fc88a1fbc092ac8bc8b5f2
+SHA1: c4a90b8b32e98fc1fd391c4f2182cef71eaf520a
+SHA256: 16127145880f3148406e8e19e6a9d469a13d5fbad15823507a7ba7f651bad6aa
+SHA512: fa2c584c82c353e0ea3d7a87c69d0fb12adf01fa659c474bc2b1d93efe448e7a1508d2ded454916a10e9581cf830f8ac26b89faf6111559ba83f2b3dbd04a47e
+Description: Audio visualizer library
+Name: libmitsuha
+Author: Nepeta
+
+Package: me.nepeta.libmitsuha
+Architecture: iphoneos-arm
+Version: 0.1.7
+Section: Development
+Maintainer: Nepeta
+Installed-Size: 288
+Depends: io.ominousness.ass, firmware (>= 9.0)
+Filename: ./debians/me.nepeta.libmitsuha_0.1.7_iphoneos-arm.deb
+Size: 28544
+MD5sum: 63daaa6721bad084908d4244778f767e
+SHA1: 1249a2aea40e0ac314e0b85bfff2d9403f342c13
+SHA256: 7bd8b3a95daea0c6a8288e193af3dcb37bafde7e389a6dc0388e2ec1e5c77770
+SHA512: 84f20d98498709f36e534e933ff714b8f2f51197c65ae12f58a4eb78341532f864f8c5744e2e4415a81b4d81c3bdec8d2e1756b81c356f06676f12c8768c25fc
+Description: Audio visualizer library
+Name: libmitsuha
+Author: Nepeta
+
+Package: me.nepeta.libmitsuha
+Architecture: iphoneos-arm
+Version: 0.1.8
+Section: Development
+Maintainer: Nepeta
+Installed-Size: 288
+Depends: io.ominousness.ass (>= 1.0.1), firmware (>= 9.0)
+Filename: ./debians/me.nepeta.libmitsuha_0.1.8_iphoneos-arm.deb
+Size: 28352
+MD5sum: c2cf007a8c3326fb627d72f4b356d07b
+SHA1: f7cb1fda22c9f47d26d1475fe7b6b4f932506e6e
+SHA256: c56f4e4dc91e0a7db128590b4211e18bdb9717b4cd6f18ed663588931fb86c23
+SHA512: d648864f9c53923f86031e7d3cfa66e132351209392b6abd46a93dc4c5d89ade39ae43a0e93c53b9487ab5a42bbc4b75ded12bce802cd3af6ee1f385f299a104
+Description: Audio visualizer library
+Name: libmitsuha
+Author: Nepeta
+
+Package: me.nepeta.libmitsuha
+Architecture: iphoneos-arm
+Version: 0.1.9
+Section: Development
+Maintainer: Nepeta
+Installed-Size: 292
+Depends: io.ominousness.ass (>= 1.0.1), firmware (>= 9.0)
+Filename: ./debians/me.nepeta.libmitsuha_0.1.9_iphoneos-arm.deb
+Size: 30076
+MD5sum: 37c00f426197f8b11c6bb364472b325b
+SHA1: 524310fa7f965a15296d402475e81530d6547c68
+SHA256: 7752248a336cef00de6ac3df7f8cbefd749dfd135ff7e2f8c85c04235707df27
+SHA512: bc7bf66fd74f4f6123a7437e16a34529deb21268f4212966fb256af222ddbae16251f25e9ee0e68a115fac84eee58a4b279a538eb87517fa57a63cf2519a6957
+Description: Audio visualizer library
+Name: libmitsuha
+Author: Nepeta
+
+Package: me.nepeta.libnepeta
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Development
+Maintainer: Nepeta
+Installed-Size: 208
+Filename: ./debians/me.nepeta.libnepeta_0.1.1_iphoneos-arm.deb
+Size: 15942
+MD5sum: 9c6b0244143ed613e6d4b2394b165545
+SHA1: 297f7b56a8ab255334e8d9cc5f82a20c711222de
+SHA256: 80e4c31f17da3748deb9c329ad41ea6eae6fdf609547125f9e729ffb16b113d2
+SHA512: 93b0f33d3b263480fd8ee087257c6e05d2609de5aba0b5f7dddbec155c51a328b59844dee02de0c63fcb6bebb95525e3f3cbb5c8f2fb1bf7e8620ec494a6fa72
+Description: Nepeta's color utils
+Name: libnepeta
+Author: Nepeta
+
+Package: me.nepeta.mitsuhainfinity-homescreen
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 76
+Depends: mobilesubstrate, me.nepeta.mitsuhainfinity
+Filename: ./debians/me.nepeta.mitsuhainfinity-homescreen_0.1.0_iphoneos-arm.deb
+Size: 3862
+MD5sum: c762b32f372df49035a21f5fb7a2a232
+SHA1: 83b7bd41be30e480038a16b1c817b47e2ae0cf54
+SHA256: e895845751b5d0dfd1e66123a24ad06a3fec4dea371a3cb94c815672800e4d8e
+SHA512: ed958d07f71eec10ac807b2044433758a5cc7ddafc84ed48f97fc652c9b5246ef55c8bd892da45075b75c55409602a6e9918960d0021bce07faedee52390c672
+Description: Audio visualizer for the home screen
+Name: Mitsuha Infinity - Home Screen
+Author: Nepeta
+
+Package: me.nepeta.mitsuhainfinity-homescreen
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 140
+Depends: mobilesubstrate, me.nepeta.mitsuhainfinity
+Filename: ./debians/me.nepeta.mitsuhainfinity-homescreen_0.1.1_iphoneos-arm.deb
+Size: 4804
+MD5sum: 14fce5458e108d9588a932df8372b196
+SHA1: 18e351633ce42caa666d82cf3062e4e943486a68
+SHA256: f219ede16a21dd2007e71d04e4240aacd8f172ea04afb147d11327d810355f7c
+SHA512: 34baefa5fb961ffbdda83a21cb6002a71fb9e143c5b8dc6fa373a4a658383c3bdab78a77cb6cded75e7fe586b996885d2cb2315278127d08262050278594009f
+Description: Audio visualizer for the home screen
+Name: Mitsuha Infinity - Home Screen
+Author: Nepeta
+
+Package: me.nepeta.mitsuhainfinity-lockscreen
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 140
+Depends: mobilesubstrate, me.nepeta.mitsuhainfinity
+Filename: ./debians/me.nepeta.mitsuhainfinity-lockscreen_0.1.0_iphoneos-arm.deb
+Size: 4904
+MD5sum: ec6f4c4bfe1a048ef5408e37736a3f48
+SHA1: 3b59e1118654d47a16502ecacd5f5df1671b34d6
+SHA256: 31650b44ce787c93e46c219d3b0cf130c301ffe4e38578db3cc77dd6f21cd285
+SHA512: b87db540b202294338b7492fed200400305e989b5de819db06e181252cebf1a25eff3788187a2be5892b504cafd8b70417732c521b140e6238acf74cf98f5bd1
+Description: Audio visualizer for the lock screen
+Name: Mitsuha Infinity - Lock Screen
+Author: Nepeta
+
+Package: me.nepeta.mitsuhainfinity
+Architecture: iphoneos-arm
+Version: 0.1.3
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 496
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.4), me.nepeta.libnepeta
+Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
+Filename: ./debians/me.nepeta.mitsuhainfinity_0.1.3_iphoneos-arm.deb
+Size: 36130
+MD5sum: 75e9674b1a432cde43631f7014a9e1ed
+SHA1: 7d03dad7ff2c52a87169f8aed245ddad9c777a8f
+SHA256: 9830a704d6441fba8a633018306ff14fba3c73add94b8505c8a4dd88273379b3
+SHA512: 222772c0fef051f3e279d4845558fe65dc6e76ed75b7480024f16de09f029729071375390cf4f55a68a0b83c8d1761c41c94efe53f1f57570143e71c88cc0513
+Description: Audio visualizer for iOS
+Name: Mitsuha Infinity
+Author: c0ldra1n & Nepeta
+
+Package: me.nepeta.mitsuhainfinity
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 540
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.4), me.nepeta.libnepeta
+Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
+Filename: ./debians/me.nepeta.mitsuhainfinity_0.1.4_iphoneos-arm.deb
+Size: 35896
+MD5sum: b648111d21b0a06b1f83a9b7506bdedf
+SHA1: 74df0354d14573cf5628240648399ba4215951a4
+SHA256: b0fc96d0261bf2d363d0e39c6e90712d92d63cec583c6950cee45381341f9834
+SHA512: e2cd53bca86c94450887681aa50635f66d397cb0b24c5d677566ac90e842e4aaa9d52507c93859254ef599a282066459398ad18445133258af02a4fc546c2f99
+Description: Audio visualizer for iOS
+Name: Mitsuha Infinity
+Author: c0ldra1n & Nepeta
+
+Package: me.nepeta.mitsuhainfinity
+Architecture: iphoneos-arm
+Version: 0.1.5-1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 896
+Depends: mobilesubstrate, me.nepeta.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.4), me.nepeta.libnepeta, firmware (>=11.0)
+Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
+Filename: ./debians/me.nepeta.mitsuhainfinity_0.1.5-1_iphoneos-arm.deb
+Size: 45788
+MD5sum: cf9c3185941b069e9dc29fc5d92f5af3
+SHA1: 66976b271af7af93c2ac90672deb711307c293ac
+SHA256: af677b9e37c7ff8ff7500717195d8b10f0c611f1d1eb80b23f06a7bd98ae0b36
+SHA512: 072df84302e79fe895d5498ef0142dd7af7f223ecd37362bb688e61394236391f4361d69457068ffa6e2931372f368c67b8bad5a679c40a3e010c9a34f2b7f36
+Description: Audio visualizer for iOS
+Name: Mitsuha Infinity
+Author: c0ldra1n & Nepeta
+
+Package: me.nepeta.mitsuhainfinity
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 896
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.4), me.nepeta.libnepeta, firmware (>=11.0)
+Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
+Filename: ./debians/me.nepeta.mitsuhainfinity_0.1.5_iphoneos-arm.deb
+Size: 45820
+MD5sum: 917fa6db02db7779f56ee2cd680bd1be
+SHA1: e8fda1c8ac4c356ea346ea29ecca9f4f8d10baa4
+SHA256: e57915c9daded9be3352564d0504bfd919846ba78a510a8809d7138e60932370
+SHA512: b5d8cd5be7a8ffe2e61458f1980bf3e76cf860c51182a7c4be379cfaaf5d9b183bc5e585245bb93e3d1f4caa03ae442eeabbe1a129c55ccdb5cf10b65a7ac653
+Description: Audio visualizer for iOS
+Name: Mitsuha Infinity
+Author: c0ldra1n & Nepeta
+
+Package: me.nepeta.mitsuhainfinity
+Architecture: iphoneos-arm
+Version: 0.1.6
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 896
+Depends: mobilesubstrate, me.nepeta.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.9), me.nepeta.libnepeta, firmware (>=11.0)
+Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
+Filename: ./debians/me.nepeta.mitsuhainfinity_0.1.6_iphoneos-arm.deb
+Size: 45624
+MD5sum: 2c9ec919cda2970e1b36b9e93e3e53ae
+SHA1: 9c15b7b53e6de9fa8f32911e5b76ac5fb1d6321c
+SHA256: 2a59c422a68865bcd3eed4c9f635dc1165aca87e3a4296250345c69ff5975351
+SHA512: df1e12701aa9cfc7dd1da49833a6bfbf2a3d0be213521031a07117d4cd9d33df8a6022029fc90b4608e4263b25ae731b6f1564479f4db62d34aad7b375e7d923
+Description: Audio visualizer for iOS
+Name: Mitsuha Infinity
+Author: c0ldra1n & Nepeta
+
+Package: me.nepeta.mitsuhainfinity
+Architecture: iphoneos-arm
+Version: 0.1.7-1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 896
+Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.9), me.nepeta.libnepeta, firmware (>=11.0)
+Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
+Filename: ./debians/me.nepeta.mitsuhainfinity_0.1.7-1_iphoneos-arm.deb
+Size: 46034
+MD5sum: 793c3dbc118ece2d77f3b2b94bb8b358
+SHA1: 7dd87fc8ea091d62ea28801711dd3152333b2362
+SHA256: 1669205d14fd95f003ba6a72d21559dc12e52b7c379a7a2cd311946b6c4af711
+SHA512: 474fb335e0121980eefd21800f0347bbb3eec96c9000971177de95af57a1b36be2698ecdc8a3de8cb9bdcd2c7b11f68e7c4fea0aaca2b39a75e0584b356a186b
+Description: Audio visualizer for iOS
+Name: Mitsuha Infinity
+Author: c0ldra1n & Nepeta
+
+Package: me.nepeta.mitsuhainfinity
+Architecture: iphoneos-arm
+Version: 0.1.7-2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 896
+Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.9), me.nepeta.libnepeta, firmware (>=11.0)
+Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
+Filename: ./debians/me.nepeta.mitsuhainfinity_0.1.7-2_iphoneos-arm.deb
+Size: 46056
+MD5sum: 93000849e8e02aeb5177d9de97371540
+SHA1: d68f791b4531960142ab8388d78993a42b75475d
+SHA256: 3e253a274c719b7ac671976b323447a01e8627cb8ebaf3cd9a39e62bce82b2c9
+SHA512: c520058f3bfff3f73e3e821be888c6f15ce3dbfb77e3d1c19f1cfb72129d1d1cd04f58b98738a2f722c25c09fabe8db48e15657125ab3f35d8992fbb1ebce843
+Description: Audio visualizer for iOS
+Name: Mitsuha Infinity
+Author: c0ldra1n & Nepeta
+
+Package: me.nepeta.mitsuhainfinity
+Architecture: iphoneos-arm
+Version: 0.1.7
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 896
+Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.9), me.nepeta.libnepeta, firmware (>=11.0)
+Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
+Filename: ./debians/me.nepeta.mitsuhainfinity_0.1.7_iphoneos-arm.deb
+Size: 45882
+MD5sum: ad2859ce28e26ba9ad6d31e1e59b760f
+SHA1: aebcf33648cc9e758f5226d55ea75be6aa650bc2
+SHA256: aec655167f3a3f8a0da35dadd0f7d0e414be14dc7b90dc15ee16b33ba447e444
+SHA512: af629f68cced216d81df540007751d83387f196026410ae0291eeac5438d2e43310506382b9f2bf087759c80387a7ff1ac50fe2bffec7c9f4ad3b015f6be0e97
+Description: Audio visualizer for iOS
+Name: Mitsuha Infinity
+Author: c0ldra1n & Nepeta
+
+Package: me.nepeta.nanobanners
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 332
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debians/me.nepeta.nanobanners_0.1.0_iphoneos-arm.deb
+Size: 29488
+MD5sum: a5c244beb1d1c43631694b258ab9385f
+SHA1: 73ec8db1af10df896a9ca50440da9728dcf24af4
+SHA256: c04d2cbedab3119cba3fd02afe2d6ab31eb08c3e98a4b63a00b3140f71ace24e
+SHA512: 50c2d21485b36a9d50deaa77330d58147e440af4c90b066a001e93498e8a938cd704680cdbe9ef21541a8f391182250c65894cb9f981fd87b009fc081eba17fc
+Description: Small banners
+Name: Nanobanners
+Author: Nepeta
+
+Package: me.nepeta.nanobanners
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 332
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debians/me.nepeta.nanobanners_0.1.1_iphoneos-arm.deb
+Size: 30182
+MD5sum: 5865a11ffc25f2bf8b40fba676f981e6
+SHA1: 20f7e58bf7f0df01c261ea599e7bfdd82bfb08df
+SHA256: f044dd24e6f28c843c0a1c1bb0ce697ee06efa9cf259cc9c9c8f63878e626ef7
+SHA512: 220d1ccd3e0d160602c8afb2d17b4f473413024d8b709431428308fd2d5aa1b5cc7cc7bb2b0df14dfba7fd5b4d337f223a57eedc9f83b1f2d6740dc04e4adc49
+Description: Small banners
+Name: Nanobanners
+Author: Nepeta
+
+Package: me.nepeta.nanobanners
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 332
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debians/me.nepeta.nanobanners_0.1.2_iphoneos-arm.deb
+Size: 31020
+MD5sum: 8fcc5e8c7b0c5aa7828f5cc5be1d3531
+SHA1: 5eb7a66de07ac51061b62032d057f3d22d33f7e3
+SHA256: e6fdfcd8a78f0dd7bac3a0a28d4f1294df97caaafe8b089323446ac5d90cc385
+SHA512: 26b65ece19bff2538296ad0eb37a227027d80827c4b1e04f550cbf89a13933d5c059fa49f38fb2ca35cda68144bea2a9054735dd7d61339030b99335266fcbf0
+Description: Small banners
+Name: Nanobanners
+Author: Nepeta
+
+Package: me.nepeta.nereid
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 444
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.nereid_0.1.0_iphoneos-arm.deb
+Size: 75326
+MD5sum: d047fae5662d2c70f0a4b5fe6c1f2295
+SHA1: 2053f3bc2cfc6e47f1719ffcaab594f402993680
+SHA256: ac4ad3dfbd4bf49f0e9618fe5594414e1a709c9262dda593c4bc8cb2dae28542
+SHA512: 722ea3919b69d2ae30cb1aa4f9762de59af85f32f549f84aabb7ef1b4f90ecd9b88a2f8ca5620287f0609b45c62681c01258c2e77c3a1931e6afb5a110a03781
+Description: Lock screen music player redesign
+Name: Nereid
+Author: Nepeta
+
+Package: me.nepeta.nereid
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 444
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.nereid_0.1.1_iphoneos-arm.deb
+Size: 75496
+MD5sum: 65ab188685d63e239bbd1e8581d2ac17
+SHA1: 30fd5775f710ad0abe2bf4256e0256460da2c93e
+SHA256: 4d10d812f7daf0765df37faeb396f858c5b5b3b9b14e3d640a7c82a8d0a94e62
+SHA512: 1110af300a64f10851534ee4a554b93065ce284f4d7ef5a1df622b5a47f867a509ee88c0fe122dede0062445a705700fdbc0d065c697bb1643ebd2e00670509d
+Description: Lock screen music player redesign
+Name: Nereid
+Author: Nepeta
+
+Package: me.nepeta.nereid
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 444
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.nereid_0.1.2_iphoneos-arm.deb
+Size: 76996
+MD5sum: 31aa73bb9c876e53f960156492d023f0
+SHA1: 301fd217d6dc17aff6bb60f7f93b94c409f36ba4
+SHA256: baef6865bd2701500d30b88539148b0fb9646eecc546fc3904e59cc80f0b5949
+SHA512: 685e3f52ea6ec51f52fe5216b2b7d0d602a0160e32294dec323e04f0840f4cfb755d35b1dc29215fb6cd5446455a35e3b462652710f457c52e47db80d9876286
+Description: Lock screen music player redesign
+Name: Nereid
+Author: Nepeta
+
+Package: me.nepeta.nereid
+Architecture: iphoneos-arm
+Version: 0.1.3
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 444
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.nereid_0.1.3_iphoneos-arm.deb
+Size: 75832
+MD5sum: 5d1e6072a77f88b73dd99f61ac0ee26b
+SHA1: 28daee3d6f739ed7970ee32e445b71814f3abadd
+SHA256: d9be49dfbbfcb400c8ee1b96059f166f62b43dd8fa18883f5b521f6c9a550a49
+SHA512: c613cef53b05ad977dd9542198a9efbc9f3fc7dc4803cc6781181deb05b5c3f71f5cfeeaad946aec61c3726f05d0fe6d7771cb64bd41b9d0b120baed38f74fbb
+Description: Lock screen music player redesign
+Name: Nereid
+Author: Nepeta
+
+Package: me.nepeta.nereid
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 444
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.nereid_0.1.4_iphoneos-arm.deb
+Size: 78124
+MD5sum: 866899e3accff27ce62b4162c1fcead6
+SHA1: 5c0867b181d9d3d3845669684e97d34df2438b27
+SHA256: 33033fe79f1ccb26636b882e5e704e24ce252eee1a97a7b3654756d46c37bc24
+SHA512: 25bb3618ab0660438372f9662f7c6f7a92db8a1e31e111f59fd25fe0efc47db5f37c3d000660334183bcc2245024d0a2bba3cc0792c8dae8832acb184590d859
+Description: Lock screen music player redesign
+Name: Nereid
+Author: Nepeta
+
+Package: me.nepeta.nereid
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 456
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.nereid_0.1.5_iphoneos-arm.deb
+Size: 85200
+MD5sum: f48b3fd3bdc77e8bccca4f1e49daf37f
+SHA1: 5358f328537f1ee8a58f6f9745098e39f9b32838
+SHA256: a84dab0f4be3e5f90688f0aa50ceb874c0f4aa64729cb60e85a3f81d49f2c04f
+SHA512: 2ef9d6e5534907751feecd44e03a5c60940996ed9ee14c107d6eafcecafbeff166f3ddc8cbed43544b3eb7308edd8540809165288967e19e5b43aca0f2c254b6
+Description: Lock screen music player redesign
+Name: Nereid
+Author: Nepeta
+
+Package: me.nepeta.nereid
+Architecture: iphoneos-arm
+Version: 0.1.6
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 456
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.nereid_0.1.6_iphoneos-arm.deb
+Size: 86204
+MD5sum: 71743b4d0a235033b8047abb2cf735e3
+SHA1: 811946a77e914da812e793e9b4cc1f7977322910
+SHA256: 15f35968782a66bf086abfbf10d9dd2302ccc4f8e4583e30f3587226ce20e4d8
+SHA512: 07167477227d4ef0dd1ef95cb73e6e9fa045ebf11baf4509b77d563ced61944cb50c723d7670ad6bc73558a832bf901e70906b8c511b5e151dbb4e191740c394
+Description: Lock screen music player redesign
+Name: Nereid
+Author: Nepeta
+
+Package: me.nepeta.nereid
+Architecture: iphoneos-arm
+Version: 0.1.7-1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 488
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.nereid_0.1.7-1_iphoneos-arm.deb
+Size: 87350
+MD5sum: d194b0df04657d618573a6d54fb86983
+SHA1: 2ab622033bad22fc9c0416a4b94cca1837dcd499
+SHA256: d729dcda90a48351048a03d706014c9842923118567ae01a422079de5239e2bc
+SHA512: aac9b5d298d3d847f01aea7fbc2dce1faf9ed4752fa793f53131b7a4d8a88e48ca8a6abbf1046a8570acf3f855d97881d9e1390a2619ed77aa8220c291072911
+Description: Lock screen music player redesign
+Name: Nereid
+Author: Nepeta
+
+Package: me.nepeta.nereid
+Architecture: iphoneos-arm
+Version: 0.1.7
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 488
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.nereid_0.1.7_iphoneos-arm.deb
+Size: 87370
+MD5sum: 2aec35b4c63500ef7cafeddbecfda464
+SHA1: 57f852335598b4e814f73564140e0c850c66b6f9
+SHA256: e73af94f000e622daedca17fd82decdc4c91a5449360b59733ef03606ae4c81a
+SHA512: 1065074c448846e20667d6d28f0d097c9afb11e4d112b27028c0e4ebc0be2b4fcfa107a0aad2f1c9d0d70d3c961fe3422cc1513ace75df9a5653fc9ed2506565
+Description: Lock screen music player redesign
+Name: Nereid
+Author: Nepeta
+
+Package: me.nepeta.nereid
+Architecture: iphoneos-arm
+Version: 0.1.8-1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 488
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), me.nepeta.libnepeta, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.nereid_0.1.8-1_iphoneos-arm.deb
+Size: 89126
+MD5sum: 2e76521d37b8a5765927df17b1884fce
+SHA1: 649c460994c133da0d33962731a5e93d7574684c
+SHA256: 7339baf5c3ff81293f4099de79c1e69b6be64fa12bab7325b39f17cc6fddda81
+SHA512: e12186b7da143aa5a264eb51de23cd537060b14f5712d019e580b729becfdab956e0cb2d2c025a89a4352855dacaa9f48b70c4e0f167238ab1007ea0f5e5e85a
+Description: Lock screen music player redesign
+Name: Nereid
+Author: Nepeta
+
+Package: me.nepeta.nereid
+Architecture: iphoneos-arm
+Version: 0.1.8
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 488
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
+Filename: ./debians/me.nepeta.nereid_0.1.8_iphoneos-arm.deb
+Size: 89084
+MD5sum: 64228a5771931ecdf2131c515071a865
+SHA1: 3cc7360a0d531c2bdd44c14dbbb093c7b9eeb4cc
+SHA256: ff3318f6e59c883583666eb28e6fa67b610d6d99866902252244c80474242cc3
+SHA512: 754be26e5ecd027db5bad1484430ea6cb3a759e554594f108da1a4839acb2a1423b81820988953fa3f629d6e751dd0d37036c3dd2a8c398855b5bdbc5af16ad8
+Description: Lock screen music player redesign
+Name: Nereid
+Author: Nepeta
+
+Package: me.nepeta.noidletimer
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 152
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/me.nepeta.noidletimer_0.1.0_iphoneos-arm.deb
+Size: 5476
+MD5sum: 5c09b9ebde36c7965a15fc909f50e6b9
+SHA1: 9829aeb7d19b7457a162d7dc57e7d2d7ccc689c2
+SHA256: bed23ee22a85f1fdfd8f16df38476799469301ca569958671d488ad9fc4f9ede
+SHA512: f559f5dffe0c8c3dd464e9f485dacf4d973d1c56a087270480e673d66283d52268b6a6b2fe39489f93fe63dcf074d12a54aeef02ef0c6d4d3744e596c2ad749a
+Description: Conditionally disable lock screen auto locking
+Name: NoIdleTimer
+Author: Nepeta
+
+Package: me.nepeta.noidletimer
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 280
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>=11.0)
+Filename: ./debians/me.nepeta.noidletimer_0.1.1_iphoneos-arm.deb
+Size: 6822
+MD5sum: 5898484e032fac93153b968d91abe7f0
+SHA1: 25b04a38584c879742d93f4a5c234b1590335e8b
+SHA256: 60e4ab2eeb569294b96f6e13a70474ee2824395e4e1927ecfab3578181a5c23a
+SHA512: d75ccf8b9f859ba9fee29e758181ed17a74d07548fc0cc2c9f3c51344dcb7f67bdb264f69e2b29392bfbded50f9e82af460f1c1ed2221623a20f107ab34ff7d0
+Description: Conditionally disable lock screen auto locking
+Name: NoIdleTimer
+Author: Nepeta
+
+Package: me.nepeta.notifica
+Architecture: iphoneos-arm
+Version: 0.2.6
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 872
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1)
+Conflicts: io.ominousness.modernxi
+Filename: ./debians/me.nepeta.notifica_0.2.6_iphoneos-arm.deb
+Size: 365692
+MD5sum: 31f01e527b6bed2b353ef0845d4fd8ee
+SHA1: d32d88a64a59106debb8e6ccc8165bf470108299
+SHA256: fc23baeb4423b0bcb2471c3548a0cfcf77b08d7673ea694b2b1a72d1dfb4de12
+SHA512: 3f7b956449abeeee4a7d4dfffe6cd25055e0961e4a2d0a31ec126d8e1b82f3746e3dbc63a20e3fc6165cfc1682e988c6cec71f08722a2cc5b34df1e19e601281
+Description: Notification customizer
+Name: Notifica
+Author: Nepeta
+
+Package: me.nepeta.notifica
+Architecture: iphoneos-arm
+Version: 0.2.7
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 872
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1)
+Conflicts: io.ominousness.modernxi
+Filename: ./debians/me.nepeta.notifica_0.2.7_iphoneos-arm.deb
+Size: 366430
+MD5sum: cf2917d0aef2b3ec1493bf13cc3a0a2a
+SHA1: 1804aa79175c7908ce3789fbb69ea085b67f6055
+SHA256: b668cbc6c10e233772969e37849b99183a028c4d059c1651257df851ac569771
+SHA512: d7606d808fa1203605b9ce838afe4f80c2a402242c4dcb3e5db7c2554a32b00e959348823fe4eb192e6e8d52da5486e09998bd43333e7bb755a4d4cd1742f9a1
+Description: Notification customizer
+Name: Notifica
+Author: Nepeta
+
+Package: me.nepeta.notifica
+Architecture: iphoneos-arm
+Version: 0.2.8-1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 1100
+Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
+Conflicts: io.ominousness.modernxi
+Filename: ./debians/me.nepeta.notifica_0.2.8-1_iphoneos-arm.deb
+Size: 390540
+MD5sum: 4b738d7619ef8c7115b9d8fbe7b6fd51
+SHA1: 875eae399884a8a02330beca7ad8c85bad376cd4
+SHA256: 80b2d5a996f13d6cb8514f70fd4096fd40cb9c37821eea4fe7364ee3bd36798b
+SHA512: 2bfc124ef77cbe898e7085b9c6c7f6adafc210cdc793fd6521b73d7af3d784e7f7aa937c4d603bb2fcb9b460a97ef35e58ea8384ce8ab61c6e508b557d0a5557
+Description: Notification customizer
+Name: Notifica
+Author: Nepeta
+
+Package: me.nepeta.notifica
+Architecture: iphoneos-arm
+Version: 0.2.8-2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 1128
+Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
+Conflicts: io.ominousness.modernxi
+Filename: ./debians/me.nepeta.notifica_0.2.8-2_iphoneos-arm.deb
+Size: 391382
+MD5sum: 62a534efe3132ac61203f28840fa9135
+SHA1: ec0bfa315a0247e9f77dc366a6943f35b27c1f73
+SHA256: 44f394bf1f403bd1ef75a30c683e85be670861f2e84dccbac8357d8d9d56a7b8
+SHA512: 454464ed15769c1473cfc9a713413931c2ca32a4613c7bf49c9317d8e0970d70b514e0674de6baabf5fd9d8caa60abff90859e07aa9d4453c78e27fdae243c8e
+Description: Notification customizer
+Name: Notifica
+Author: Nepeta
+
+Package: me.nepeta.notifica
+Architecture: iphoneos-arm
+Version: 0.2.8
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 1100
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
+Conflicts: io.ominousness.modernxi
+Filename: ./debians/me.nepeta.notifica_0.2.8_iphoneos-arm.deb
+Size: 390396
+MD5sum: 2b66fcbed93d8708aa1d5364003592d0
+SHA1: b9d8297eaadb8a86e3bcc098fb4f0ea9ac469d57
+SHA256: 50df9414e5f305e1e976b7b6b78fea0ce68a45a6f426a9cfee56720d3b2da5f4
+SHA512: 7801d7b1cac83f8f9fdcb46705a0315a0295a12a51f018b9bc30a00e7718998bed464df46c72923142c58689a750a5875643cbfa012ce0fea86dcd8406f65891
+Description: Notification customizer
+Name: Notifica
+Author: Nepeta
+
+Package: me.nepeta.notifica
+Architecture: iphoneos-arm
+Version: 0.3.0-1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 1128
+Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
+Conflicts: io.ominousness.modernxi
+Filename: ./debians/me.nepeta.notifica_0.3.0-1_iphoneos-arm.deb
+Size: 394524
+MD5sum: 9357b6742d24c010533276a419bc224f
+SHA1: c50b4922981aba6a22a3ea69f386d803c9eefa9d
+SHA256: a4fbe9e2a729fefa204baedd8a59a897357f2c24c877cec66148bb3332e35ebe
+SHA512: 84878f248d887016d953c719cdf7655bec7ed09ab02600e5fd6b8271e5129c77b22487ce69a9628f2654df72d2fccc419875ceb214cba479b7aee414392a243c
+Description: Notification customizer
+Name: Notifica
+Author: Nepeta
+
+Package: me.nepeta.notifica
+Architecture: iphoneos-arm
+Version: 0.3.0-2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 1128
+Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
+Conflicts: io.ominousness.modernxi
+Filename: ./debians/me.nepeta.notifica_0.3.0-2_iphoneos-arm.deb
+Size: 394660
+MD5sum: 9234fd3d51a1dd12a5491d5309ad4a02
+SHA1: 8dbbe5a9c0a16793fd1f27a817690f7c6d1d9054
+SHA256: fb7ef7c735009f8b945572049750208195e06ddcd60a7772dc85209ed643b807
+SHA512: 91c15ba5eb1c624cf2d9874a94d00cb184279019e0c09d45de2b0f1fed62d30a9d2559f1af77e70d2f4bc0c04943cdcdf217b00d535f4866206d2e40f0644033
+Description: Notification customizer
+Name: Notifica
+Author: Nepeta
+
+Package: me.nepeta.notifica
+Architecture: iphoneos-arm
+Version: 0.3.0-3
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 1128
+Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
+Conflicts: io.ominousness.modernxi
+Filename: ./debians/me.nepeta.notifica_0.3.0-3_iphoneos-arm.deb
+Size: 395656
+MD5sum: fcfdcb372027a3d06d5a684eaeaec6b0
+SHA1: d34718b88ab2e08199cee7484b59460895585fca
+SHA256: 5e064c2c6ca39104f8a497058fa8d5f2f1998ac005b0092dbc97fd810f5e2cb1
+SHA512: f41f9eaee24d836f632ff565a5722396f2ca85887dfe70ebfbea6951f405d42b5ae7b199f49057e19326e8b885d7c4f75d9f5b1a21cee42b5f2fd3652dc5b91b
+Description: Notification customizer
+Name: Notifica
+Author: Nepeta
+
+Package: me.nepeta.notifica
+Architecture: iphoneos-arm
+Version: 0.3.0-4
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 1128
+Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
+Conflicts: io.ominousness.modernxi
+Filename: ./debians/me.nepeta.notifica_0.3.0-4_iphoneos-arm.deb
+Size: 395994
+MD5sum: 0cd0eb3151ea21d574d05bc0d2271b6a
+SHA1: 542b1fea5824e60d04825c76d622a9151e4ee309
+SHA256: d82f10cb4506dc34b5632b4b749a37c14a0a332bfe6c47648b51ac7725ab3d9b
+SHA512: 6e6d48be19a45a8315800eb0cedb22ca2f3da0ae2d7a964583f6c0a34c8ecb3cde1f16d6aa11326d5dd241016e9ea3c2e52dd5b8d707ac8b0c9e496151a11343
+Description: Notification customizer
+Name: Notifica
+Author: Nepeta
+
+Package: me.nepeta.notifica
+Architecture: iphoneos-arm
+Version: 0.3.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 1128
+Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
+Conflicts: io.ominousness.modernxi
+Filename: ./debians/me.nepeta.notifica_0.3.0_iphoneos-arm.deb
+Size: 394462
+MD5sum: abc0f2dba25fb871b2bf1a4a132f124e
+SHA1: 926b0c102279b6facadcec2464e4cb8389eba9dc
+SHA256: 8c4d3129428b70a847d6c94c8b7c15b50953f622890845c3b42434e990961479
+SHA512: b2ddcbb8e067b1725eb289e9c6f9b9f8821d10f3d60b43185a65a6d822f8e7f3717fa2c1591ed7d824f1d82bb09efe16ae941f52c195c7de72007ff69a2264c2
+Description: Notification customizer
+Name: Notifica
+Author: Nepeta
+
+Package: me.nepeta.notifica
+Architecture: iphoneos-arm
+Version: 0.3.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 1128
+Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
+Conflicts: io.ominousness.modernxi
+Filename: ./debians/me.nepeta.notifica_0.3.1_iphoneos-arm.deb
+Size: 396656
+MD5sum: e9923d3f227d2c93f2caa6d731048f2f
+SHA1: b75537cc08c5ea0b386b1896748cbe3bf2e29a82
+SHA256: 75797451b69d992ca4d53bfdd4c226a6ca9d4c01400d31291583340c73514162
+SHA512: f71c823b4d693286a03a717d077d07842db55d4135e6f4bc7ea277aecd922582691b7da6625554ad6b987e8c3fc232572e6d7f79d4a45d51b88273a31f1b6c83
+Description: Notification customizer
+Name: Notifica
+Author: Nepeta
+
+Package: me.nepeta.nottoday12
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 152
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/me.nepeta.nottoday12_0.1.0_iphoneos-arm.deb
+Size: 6818
+MD5sum: bb8ed35cef3908bd45e27f11f8eb9b73
+SHA1: 530e44fb86c5a0bfd3b9399f383895797203fa04
+SHA256: a45978c425c548eb6f6a6e0d8339e38e6d655deece850bf54ef0190fa723712d
+SHA512: bdc2f71647471d800f78b4bff2a095389a5fc69ca8a2ff323d9dfec7ca235c25a87702d255f2e39b8f1a7419fec8f87f51b727c0fbe3e3acd335bb801aca74f6
+Description: Removes the "Today" view.
+Name: NotToday12
+Author: Nepeta
+
+Package: me.nepeta.nottoday12
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 188
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Conflicts: me.nepeta.slyd
+Filename: ./debians/me.nepeta.nottoday12_0.1.1_iphoneos-arm.deb
+Size: 5862
+MD5sum: 69826f37d1dfb99af2829d81b06f8ede
+SHA1: 62e62c99dab0b6c4f9167d019921a3ed6f265bc2
+SHA256: f07663564c5455ad2eb835ee2e2582cfe73aa0563969f9cb83e25dc69ee964a1
+SHA512: ed0b70eb7552ba5ff89568930a5d38235ad06e06cb962114235b22217533fde1dcc93653da5fda2d5e582ed3ac328dddf4a2d62e1198f6649e80442c8e4e8164
+Description: Removes the "Today" view.
+Name: NotToday12
+Author: Nepeta
+
+Package: me.nepeta.nottoday12
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 216
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Conflicts: me.nepeta.slyd
+Filename: ./debians/me.nepeta.nottoday12_0.1.2_iphoneos-arm.deb
+Size: 6528
+MD5sum: 61c6f35583876dbf3203d99c1ecd1fe8
+SHA1: a7c2638db2d84d8af990147468cd4e1720193e79
+SHA256: a615ab5cd036a832d976bd365cdbaeb76f5db1b8b9f80aa4f708672558a47241
+SHA512: 67e70221509f5b052b0c1c91657836dd468854613d44e490c184835b25382d0f8dd7f7163491f38cbb8c0210d73c0bce836c953b51867a2d72e564739b10aa45
+Description: Removes the "Today" view.
+Name: NotToday12
+Author: Nepeta
+
+Package: me.nepeta.nottoday12
+Architecture: iphoneos-arm
+Version: 0.1.3
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 280
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: me.nepeta.slyd
+Filename: ./debians/me.nepeta.nottoday12_0.1.3_iphoneos-arm.deb
+Size: 7210
+MD5sum: 6fc8ab5d82ad5a454eb919ccabef98e9
+SHA1: 6fe3a69700ea94607b683f1bd31e96bcb5244700
+SHA256: ef263ba9beb93a02b8bf02dd0dd150fd2b9657cb8deb4c43ae630273ae33e43a
+SHA512: 8172d9f80a43eaf0f13d8fcc99d8dd2bbf2e6784b04a6901d7c2d2f4fe8e6a5ebcf2bc31bc0bd4e67c887ef49bf45a2fbda4683a18197ccf3bdf79efb5768a1b
+Description: Removes the "Today" view.
+Name: NotToday12
+Author: Nepeta
+
+Package: me.nepeta.owo
+Architecture: iphoneos-arm
+Version: 0.2.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 156
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/me.nepeta.owo_0.2.1_iphoneos-arm.deb
+Size: 11016
+MD5sum: 4fbcb13843458a8134fa369134ada3b6
+SHA1: 4b416e633e525390914331bf9c15f89caf8e1cd9
+SHA256: 5ed66a649657a4dd3748e95ed0f0f24b45d0f9fe09ad38de37a1c488afae981a
+SHA512: 88f92488d2bdedc7a95051f05005dff139e40500e0498283224de3316fc4e0dfddf1953e6e13398904476ba790ff33e00cce608cc36d388978a07ea209b21e63
+Description: OwO what's this!?
+Name: OwO
+Author: Nepeta
+
+Package: me.nepeta.owo
+Architecture: iphoneos-arm
+Version: 0.2.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 284
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>=11.0)
+Filename: ./debians/me.nepeta.owo_0.2.2_iphoneos-arm.deb
+Size: 14422
+MD5sum: 0a247cfb2ab32cb375ec0f78d05fb704
+SHA1: b64bb845f9af39baa23e3a8b6f7999a58f5e1246
+SHA256: faeb8b397111832352c505538cc2706c378d2b843cf47de3c40e2814c9b170aa
+SHA512: f2c1b154111362cf3429bd80c72bf4754c96ce638e6e6e88a5e68355fd08480e864e7fd365c58d6d7069374e8091f9264f502ff1c98bb64eda6418a8a938abd6
+Description: OwO what's this!?
+Name: OwO
+Author: Nepeta
+
+Package: me.nepeta.reachit
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 204
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/me.nepeta.reachit_0.1.0_iphoneos-arm.deb
+Size: 20326
+MD5sum: cc77d1cc198d9f92cc26d9acb3d22f9f
+SHA1: 7ad26f40bf0d6de79c01157000418dbc76f3da29
+SHA256: 8a253757912662873fbcd0d3b31731c385e96dcd716b19d1bdc895d89332e876
+SHA512: 8bc109befe84e38c1b03699e4f2e39e7dffc8e2f07c4161cc594ef66e7924df7c205ac5e870031faab15209a11dc99401f3a445a2f5fe4534b48a1b9d1c0c51f
+Description: Reachability music player
+Name: ReachIt
+Author: Nepeta
+
+Package: me.nepeta.reachit
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 296
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debians/me.nepeta.reachit_0.1.1_iphoneos-arm.deb
+Size: 23516
+MD5sum: 308e127a765172657a639e604e33ca94
+SHA1: 1141e8ba963f4f2d79a7f2c8a8a18bd5b8238a57
+SHA256: fdbd75a39e975d4736503c5331a067786d088a91ff9697cb1a95b5737a079b8d
+SHA512: 21ece75d0ec57d21104c970a46246b4f0c5b19a0c61634ee9ce7bc571f0d6b554d73b94f9a743082b0e069ce5152a6e7be835d6bd3f20f6e0c359cabd41103be
+Description: Reachability music player
+Name: ReachIt
+Author: Nepeta
+
+Package: me.nepeta.reachit
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 296
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13), firmware (>= 11.0)
+Filename: ./debians/me.nepeta.reachit_0.1.2_iphoneos-arm.deb
+Size: 23640
+MD5sum: 34925571d54500a997f389dd9b5ca1df
+SHA1: b1c490aaf94246274ffec318717f3526ee1d752e
+SHA256: 1c4f468339bc506a2e9a5f285f1f124cc545b737f446c0fc1a0a35c19ab6514a
+SHA512: 3376da00a9a87e63de93a3116461a916b16dbfe02a8986a5a2f8628e94ef91b9ee043eabdda5660e15ac4f8e6beb449dab5c15cc0361dff561cd5b5c903a883c
+Description: Reachability music player
+Name: ReachIt
+Author: Nepeta
+
+Package: me.nepeta.relocate
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 440
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debians/me.nepeta.relocate_0.1.0_iphoneos-arm.deb
+Size: 65920
+MD5sum: e332ec52de9a0316c97e28e2f6e1e43c
+SHA1: c6d508bfe0971722ab116251d4fa313331f1cf64
+SHA256: c23b322341605495eaed48a45276c151842277d76aae0b459ec8a8876a41d410
+SHA512: 760ff28353830290ee10dbb31f4d37d8d07d3fc65fdf5a19187f267df9113af8ae5a35fc707490652e349c20d9af46e405acc81ec8a2ea069c990ebfd70c90b6
+Description: Minimalist GPS spoofer (free)
+Name: Relocate
+Author: Nepeta
+
+Package: me.nepeta.relocate
+Architecture: iphoneos-arm
+Version: 0.1.10
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 520
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debians/me.nepeta.relocate_0.1.10_iphoneos-arm.deb
+Size: 93536
+MD5sum: 35ca6d86a428f2c28efe7430ce2b6b4a
+SHA1: 934b37f6f7ed56d3ed19661aeef65d814a80ff60
+SHA256: 08cb67bf1ee659a3cf18ba7fb346828902b5f4e69a17190504db4b06eab08c71
+SHA512: 9adc9ac90bfdc3105d8cf44dbeebeb902ea736caba3b8cede4afc61a137bdf8b176bf465fdcf77c9c349e6c321cb951449450814619f6db284dd23c186fe1556
+Description: Minimalist GPS spoofer (free)
+Name: Relocate
+Author: Nepeta
+
+Package: me.nepeta.relocate
+Architecture: iphoneos-arm
+Version: 0.1.11
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 552
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
+Filename: ./debians/me.nepeta.relocate_0.1.11_iphoneos-arm.deb
+Size: 94710
+MD5sum: 483ee6149e539ce31afffa59c8880528
+SHA1: 20514330acd718cf95b8ffb3816f6c1660f7fe65
+SHA256: ad5798646107102dfde09f29d83689703fffda0985472dfad2862663e8ec50df
+SHA512: d7e8ad9f7ed9f3d9e5fc845b86824df5b972c390a1e7fdee98056027fc756fe461f18baf126281fc8b5b9aec8fa061ea8433b58c057b747a83f1e055cee8ce40
+Description: Minimalist GPS spoofer (free)
+Name: Relocate
+Author: Nepeta
+
+Package: me.nepeta.relocate
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 440
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debians/me.nepeta.relocate_0.1.1_iphoneos-arm.deb
+Size: 68010
+MD5sum: 7fc27d7eeb1daf88933fedf6217ce7e7
+SHA1: b35c6f171a43408331920b0e615389e66cb58a89
+SHA256: 0b538fd03db31783e2430159ad5a4ff5e10a12aca505ce6155ee5b3b814b6fec
+SHA512: ebf51f89e67baa3a02971d0a1c64c18488209521427bc4120d34739d93024c28360c56d8942fe4eb631fa556fac681e4c88cd39f2bc308eb57497a257e339f4b
+Description: Minimalist GPS spoofer (free)
+Name: Relocate
+Author: Nepeta
+
+Package: me.nepeta.relocate
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 440
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debians/me.nepeta.relocate_0.1.2_iphoneos-arm.deb
+Size: 70538
+MD5sum: 15960fe1eb08ee3598c43cd748bf37b9
+SHA1: 67b99dd97041acf07ba4c1a7bd85955aef95fa6d
+SHA256: 7382270599d04f9e04cc34d00ca233e182907c1a26e8a182010853865b69c810
+SHA512: 010dfd460b5d554994cc8fc1332d2fb217737806d4713455843cb22abca9073efeeec596ff11686e0d87af2755910354e3fa00be685364a76cddac9faa5ea109
+Description: Minimalist GPS spoofer (free)
+Name: Relocate
+Author: Nepeta
+
+Package: me.nepeta.relocate
+Architecture: iphoneos-arm
+Version: 0.1.3
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 440
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debians/me.nepeta.relocate_0.1.3_iphoneos-arm.deb
+Size: 70204
+MD5sum: ab0ea613831ac3e87b5fd000c2064596
+SHA1: f35af0a6b49fcb8adcc639ae51d7af1843abe94f
+SHA256: dd80037d29ad48aab5aaa2ead0cc32bc426649efb82d5f0478dcaf7adebfe64a
+SHA512: 97553dc1567c5da13c2a6f4ceb1b7c8ecf0f5ea7bc806a2b984ae543b6c3365a50361549fee32b93ccc4a9d6b5f5a495a68672f6dcd6c9e6e7cb4391d609976f
+Description: Minimalist GPS spoofer (free)
+Name: Relocate
+Author: Nepeta
+
+Package: me.nepeta.relocate
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 476
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debians/me.nepeta.relocate_0.1.4_iphoneos-arm.deb
+Size: 74284
+MD5sum: 93a9953837fea85f6729aafa2d7406e7
+SHA1: 4138a0c06e3ceb96650c2983efe61363ee37d672
+SHA256: 9e1470cd2ae34998dcf0d33e4b10cc60ad967abeb16712d1014a5e0e42e27d2a
+SHA512: b55df9f3c9ef423893bd6eee3dc7e21f588ddac63034338bbda5150d835ceabbba9ac7de960dd9724ddb9e2f02772d7988737f4d2a101370dcda69efe454010a
+Description: Minimalist GPS spoofer (free)
+Name: Relocate
+Author: Nepeta
+
+Package: me.nepeta.relocate
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 508
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debians/me.nepeta.relocate_0.1.5_iphoneos-arm.deb
+Size: 85002
+MD5sum: 0ef7194676037aa0dbdf76ad4c3fe790
+SHA1: e9a568612cf5771e15fdd18c5cd434e25d23ce92
+SHA256: e3b3f6f82670713e30f1f3f4699725e6b443b684d8fde4f3a70875a8a9c593f7
+SHA512: 7fbe7cc75c79db909a2007acdca3ecab7bc0c5444dd20d37f391fc209b074c13d2a2893c1a6c5aadcea2f8c80db95ffe28e2b41725b534d346607a72b3339cd7
+Description: Minimalist GPS spoofer (free)
+Name: Relocate
+Author: Nepeta
+
+Package: me.nepeta.relocate
+Architecture: iphoneos-arm
+Version: 0.1.6
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 512
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debians/me.nepeta.relocate_0.1.6_iphoneos-arm.deb
+Size: 85558
+MD5sum: e0f4754c602d11fb605437983a488256
+SHA1: 1b1ca25704f1f5f638a37001c7b6c5fd775052ec
+SHA256: b6b828a13db90c338177b2756813a88b2da5f93dd84562c203c4f451170a8a8e
+SHA512: 7c0e33139bf98ad8b1e4cb6d81f7258363947f63583c35ef214a2b3af8be520baef0b163c6aad5cd489bedaf1661b027ae62dc76f13ca443d5f2e2ea4342152e
+Description: Minimalist GPS spoofer (free)
+Name: Relocate
+Author: Nepeta
+
+Package: me.nepeta.relocate
+Architecture: iphoneos-arm
+Version: 0.1.7
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 512
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debians/me.nepeta.relocate_0.1.7_iphoneos-arm.deb
+Size: 89156
+MD5sum: dabc41c34ab2318e7783f97ca3ff2d50
+SHA1: 3d84964e06b6c90436f3fcc5c5240f03b43f0b01
+SHA256: 89d96403a5248ec4984daedd1059f7b666cfbc30f9b98daa2b53e3d6901e3f09
+SHA512: c74bf954dbe1f752e1b689252161c148b8d92faf76a73f6570cbcd50c2902fbc453f4d69627a306eadcab0871b9d45edccb4362b98cfcc87e6928c8602b5ca35
+Description: Minimalist GPS spoofer (free)
+Name: Relocate
+Author: Nepeta
+
+Package: me.nepeta.relocate
+Architecture: iphoneos-arm
+Version: 0.1.8
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 520
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debians/me.nepeta.relocate_0.1.8_iphoneos-arm.deb
+Size: 91736
+MD5sum: 9fd2518f48737e4093c2441a0d4f592e
+SHA1: 293eda28ffbe9b739b1136aaf33aa806bd7e6790
+SHA256: ed45a6cb174b7e78a2e31ae4558520ea0fc3b3ba15af0b10c8b0f22ccce6017c
+SHA512: eab1711e5b1f14c068ebb3f997b3e7613dbb848d57dfe36543491dbbc48de13ab1d2a01151a8b217a80f9d4581c84407e9dd42388caf57dd3a65800a2902aa7b
+Description: Minimalist GPS spoofer (free)
+Name: Relocate
+Author: Nepeta
+
+Package: me.nepeta.relocate
+Architecture: iphoneos-arm
+Version: 0.1.9
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 520
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debians/me.nepeta.relocate_0.1.9_iphoneos-arm.deb
+Size: 92372
+MD5sum: cc9bf1408a5a7aeafc41f77bb0a2d82a
+SHA1: 42f13dca452b56c79ded6a0ddf800b23479e6bf3
+SHA256: b525ef5cb2d611bbf7c26cf9f36776eea8618f681221dd5895f4ed3b47df0266
+SHA512: 0fe941a9c45f2dc2d0008756f432a626d9b4305dabb2da51e6bd31ecd5823be3bb8daeba57f562f6526ba6767b02d30548d266f79494632096beb635593a3e66
+Description: Minimalist GPS spoofer (free)
+Name: Relocate
+Author: Nepeta
+
+Package: me.nepeta.relocateapp
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Utilities
+Maintainer: Nepeta
+Installed-Size: 404
+Depends: firmware (>= 9.0), me.nepeta.relocate
+Filename: ./debians/me.nepeta.relocateapp_0.1.0_iphoneos-arm.deb
+Size: 105064
+MD5sum: 03ac6ab9e03376078cfed3cae1f0b6b1
+SHA1: bf6b1b9dbd9d6daf7138805f4d1927de1a89803b
+SHA256: 40eb113b2176b10fb03aba49cbaaf09e296a3620a7c9ee2b665c116c8b03bbcf
+SHA512: a0042e500f16ec6e9e4922e329f3c22e88f0a6c091ad1365f8de04938a388971793b1ca3ad400dc64a07c5a6a73020d427fa474296f34786dfb82bc890bac771
+Description: Application for Relocate
+Name: Relocate Application
+Author: Nepeta
+
+Package: me.nepeta.relocatemodule
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 160
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), me.nepeta.relocate (>= 0.1.6)
+Filename: ./debians/me.nepeta.relocatemodule_0.1.0_iphoneos-arm.deb
+Size: 21280
+MD5sum: 25b2a7120edafe6cbf204e24577816f1
+SHA1: 5a5e19f85ac1ec50c0cb51eed90cdfbb4bc8d1e5
+SHA256: ca91d4ad93934ef75c9b9c8458057c9f7a3271aeffa84e289926637b845ce8e2
+SHA512: 324d9834c8ca060206c2d554acd9306ddf587bf34cebb3c9feba6b0f1b6f08b2f4994906b5595cebc453d6c6ca73b6df2222cbce5329edaf8fd83e8848015fdc
+Description: CC toggle for Relocate (GPS location spoofer).
+Name: Relocate Module (Control Center)
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.nepeta.relocatemodule
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), me.nepeta.relocate (>= 0.1.7)
+Filename: ./debians/me.nepeta.relocatemodule_0.1.1_iphoneos-arm.deb
+Size: 27046
+MD5sum: 328bf6921b7860464371764aacc2337c
+SHA1: 2fc2d9c7427e1858c653dcc7ce6fcafcd784988b
+SHA256: 5687545200653b996a8ece3ea4dd9b74a6e89d7e320c4b57aa088cce9ea57ab8
+SHA512: fb92f4e182f2d8399064028787198a5c7f3a058471bf4bf0765dc7342b50136adfc95737e651c6f0ea3ec4c2f13b021de0235ce77d86a64f1552a46d12ec634b
+Description: CC toggle for Relocate (GPS location spoofer).
+Name: Relocate Module (Control Center)
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.nepeta.selector
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 192
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/me.nepeta.selector_0.1.1_iphoneos-arm.deb
+Size: 24648
+MD5sum: d1524e4fa1d1099cec8d26b363f9c3fe
+SHA1: c925a9383ffc0201cd29332238e55963601fc900
+SHA256: 6d7baf84ce565fbf73ac11bdfa9e4b49142067771c3faabb5cdfe34dc5dc27fb
+SHA512: 86a3aaa396e6f270e46593e7562411dd20dd95a40af3c84c55864709bfd2f93c063babd4d9f7057d7ece1319da285acd5bcf02969cce3a3f2337a6810b1a5d43
+Description: Select text to search or translate
+Name: Selector
+Author: Nepeta
+
+Package: me.nepeta.selector
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 336
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debians/me.nepeta.selector_0.1.2_iphoneos-arm.deb
+Size: 29154
+MD5sum: be2ec8dc2bfdf9598b0931ec99d49184
+SHA1: 845cdcb663c179e1a0081a05f2887dc0ac618767
+SHA256: c7ec62a1ab2baab048f7ae44de312f784f2b6289128d96b9116d0572da28693a
+SHA512: bfd96ece12e3feefbf3b9a1ab8ac45c4ad8d381ce9b30fe5b8e6ac4a3709323c7c4baeb94e8b3a788826c736612ccc4357d7c9594a504d7b95930fa9f7fd76dd
+Description: Select text to search or translate
+Name: Selector
+Author: Nepeta
+
+Package: me.nepeta.selectowo
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 72
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debians/me.nepeta.selectowo_0.1.0_iphoneos-arm.deb
+Size: 6006
+MD5sum: 72226b74585600b74e1aad663cbe85f9
+SHA1: e7457283b722fa0b01afabc9a340509faf187dde
+SHA256: 83eba32d05451d260e99591018e743fa43845cdd0ccbd8c58ff415c0206f5c47
+SHA512: 1da320a11ae4edc9240125043c75cbd24cb62e340af0b1e9d0f460826423c4ff86c5a07a3212aa7fd9016d652d17c74880b63f60575083bf7d372d16cc518a5c
+Description: Select text to OwO
+Name: SelectOwO
+Author: Nepeta
+
+Package: me.nepeta.selectowo
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 136
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>=11.0)
+Filename: ./debians/me.nepeta.selectowo_0.1.1_iphoneos-arm.deb
+Size: 7832
+MD5sum: 94998b8db2ff6aeddc22781f77f3b347
+SHA1: 7f677f017368fccae0552480de1dbd44fd1b32d9
+SHA256: 9ab38174522bd5b2e2cf0d400c57df59b1e4265d204c2bd11103dd9607af4235
+SHA512: adaa0a3adb9a2e42015ecdcf4ba7a66a65bc8169cc6d39d849ac5161cfe5310c03e6dd387acbc3e60e41b5e67f294e9f76343e201638637c24529e738e8ab555
+Description: Select text to OwO
+Name: SelectOwO
+Author: Nepeta
+
+Package: me.nepeta.slyd
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 212
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debians/me.nepeta.slyd_0.1.1_iphoneos-arm.deb
+Size: 14176
+MD5sum: f36534af37313656d962f49b1acf595e
+SHA1: 71710b50191225b1e6e00d1dd569c98817e6e8ee
+SHA256: 6e7c7d080bb8cd83dc98fa0cb3af9218497e6d90d20ade4ff83b6336fd067341
+SHA512: 2b576178cc8678b1c3aeeefaa62e3ead48077d7afe43121cd0486f92d9d0c36f9112eeffa3c41c9543d80b6288eeee42832610357b5407af5a5ecce3b052449e
+Description: Slide to unlock for iOS 11 and 12.
+Name: Slyd (SlideToUnlock)
+Author: Nepeta
+
+Package: me.nepeta.slyd
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 280
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debians/me.nepeta.slyd_0.2.0_iphoneos-arm.deb
+Size: 16744
+MD5sum: c5f4a59e34e1e813ab60e1d983360968
+SHA1: 8ad29896227d0db05a5c73446e0a96930ccb8634
+SHA256: e397e0582507bf4196aa2875fbfd5034af4d2cae9f1654092e8526ee054e53d8
+SHA512: 8fc792e1171fc9c29fd0c4a98432a5e3df4e6de8c1a09d5392b368344307aec85a774df37f67b38309ad3762ec96383982be0d114005e3a7890d9e380792ead2
+Description: Slide to unlock for iOS 11 and 12.
+Name: Slyd (SlideToUnlock)
+Author: Nepeta
+
+Package: me.nepeta.slyd
+Architecture: iphoneos-arm
+Version: 0.2.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 232
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debians/me.nepeta.slyd_0.2.1_iphoneos-arm.deb
+Size: 14822
+MD5sum: 18df18b6011db278621f3a73f0c31be8
+SHA1: edf484c79cec27bb0ff43cbce820b421c9741c4f
+SHA256: 16262cd1b36123c05bcb4fa36ce3015a0deb7f6d447e79445a0e119b8321d66e
+SHA512: 51925cd86eeab2d1d05d7a8eef08307a1be8552f476e0089c80de3f0f927008e90ffc6f11ac60e1bc22f34db01ea267b3c0160ac049404cdcc497bd9190f19cc
+Description: Slide to unlock for iOS 11 and 12.
+Name: Slyd (SlideToUnlock)
+Author: Nepeta
+
+Package: me.nepeta.slyd
+Architecture: iphoneos-arm
+Version: 0.2.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 232
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: me.nepeta.nottoday12, io.ijapija00.notodayview
+Filename: ./debians/me.nepeta.slyd_0.2.2_iphoneos-arm.deb
+Size: 14936
+MD5sum: 0684f43c7794e8863159aaf5eb71071d
+SHA1: 02b4dac50401934c967ab445da3cba6d0fe3704b
+SHA256: a2d393d00b3aaedd1596de883e84fffd0fee4378ffdf6d4630216a5472f52576
+SHA512: 9db4b5a94fb27f4176475c1ede256310b22190a9e414bd44501c80e74dc16211aaeb7e9499667bbd004648a144263d879bff9eb3571836f7aaaa6e9b819ced79
+Description: Slide to unlock for iOS 11 and 12.
+Name: Slyd (SlideToUnlock)
+Author: Nepeta
+
+Package: me.nepeta.slyd
+Architecture: iphoneos-arm
+Version: 0.2.3
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 232
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: me.nepeta.nottoday12, io.ijapija00.notodayview
+Filename: ./debians/me.nepeta.slyd_0.2.3_iphoneos-arm.deb
+Size: 14962
+MD5sum: 4cc1d12aa166ed6bacbbf588db94e022
+SHA1: 413b717fcd0a6ef110edd328db67334300a44971
+SHA256: e3afb9e31017b8f2d6d0168dc4ae6ec99b0f3a11614a57172c710ee32a11d889
+SHA512: bf307eaac192abd714822eac35ceee4a617029e4c75c63383f07aed02afa6f2d66fd828c542318e93b7b9c82675930a068670a66cdbcdfd2c309d569f8f4e322
+Description: Slide to unlock for iOS 11 and 12.
+Name: Slyd (SlideToUnlock)
+Author: Nepeta
+
+Package: me.nepeta.slyd
+Architecture: iphoneos-arm
+Version: 0.2.4
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 308
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: me.nepeta.nottoday12, io.ijapija00.notodayview
+Filename: ./debians/me.nepeta.slyd_0.2.4_iphoneos-arm.deb
+Size: 18432
+MD5sum: 4cddb11101225b7dcf89277a66c37bab
+SHA1: dd16ec4b69cfa91e56c4b241f4ab9cbb17f6bea2
+SHA256: 66acb13c8bd878a80289c645fd6bd2c8ba5167c06cc5c8ea92ce716bdd008309
+SHA512: c96708986c617bba1a98d31966099ac2d412321f1185ea64a57e4e59c1407811f289aa038edbc14e6c45317b9be76fb6a05f0942aba740eff84eb7e689d1ee1b
+Description: Slide to unlock for iOS 11 and 12.
+Name: Slyd (SlideToUnlock)
+Author: Nepeta
+
+Package: me.nepeta.smoothie
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debians/me.nepeta.smoothie_0.1.0_iphoneos-arm.deb
+Size: 2506
+MD5sum: 2578b7d134412edb440150260ba90887
+SHA1: 9397bb2760742bcafb0dbff41e28386876549500
+SHA256: c9f42361b66b413a8addfce05164b1d95f8735e9b8c6afb18f05a960ad2e0457
+SHA512: d1e10813acda4449f6879c3205cb006f2f8e0c20cd03364980cb2191ddda7f9151082412d1a33be1543c1f32a53064182b978ee2b1ac022990edaae6ca71b1b0
+Description: Smooth scroll for icon pages
+Name: Smoothie
+Author: Nepeta <ominousness@protonmail.com>
+
+Package: me.nepeta.swipeshot
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 264
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debians/me.nepeta.swipeshot_0.1.0_iphoneos-arm.deb
+Size: 15350
+MD5sum: 9c7785f604b1943812fcd1631d3fcc04
+SHA1: 788b52d8cc3788f5177778dfd8493c00484f68dd
+SHA256: 9df6ee070fbbd0b206d88bde92ccc2736997a71e4418c1e35661f01da9cb230b
+SHA512: 47c7e8c09ea820e65027ba1e78af4e3d33bdbba8a3ffa9ee64c88f4ef377e2eb38c504dce64c2f52fde911c7397f1e156eb9e8cf8d4ce9271185cab43f04b3e9
+Description: Take screenshots by swiping down from the status bar with three fingers at once.
+Name: Swipeshot
+Author: Nepeta
+
+Package: me.nepeta.unsub
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 288
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13), applist
+Filename: ./debians/me.nepeta.unsub_0.1.0_iphoneos-arm.deb
+Size: 12572
+MD5sum: bf6cfb29de6661e97e8a73167017093f
+SHA1: b0f8af7b46d8bcc3db6bd70f66791a57f1e1cc10
+SHA256: ffbb3e581e46af5914630612d9acd561d1dc19b1ad083821ad536b923cb09c6f
+SHA512: 4b1db86c9ee3d5f564157274bffb93c345a280ba7902a58fed16f2ec51b140db67981c5f4bae5285a5aaa849417cd75c671cf752776471d46549e4b00ed1df04
+Description: Disable Substitute in certain apps.
+Name: UnSub
+Author: Nepeta
+
+Package: me.nepeta.unsub
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 288
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13), applist
+Filename: ./debians/me.nepeta.unsub_0.1.1_iphoneos-arm.deb
+Size: 13042
+MD5sum: 6b01286f484fd934a8bb81dbe0801140
+SHA1: 60b25e35a61223403780c40246adfccb60a68122
+SHA256: c570b44915d28f418c3942b3b7041e3faf40eaa6e7f60f098c3b97f4747f81ef
+SHA512: b7f6a4e47d0c03f66d8dd54e7052bfe65219e9c5ae3b19a374ade97a9ce749abdedf76042230edfc02c6bb4704606fae612a209906b6a3b69adef3bbbb7ad32a
+Description: Disable Substitute in certain apps.
+Name: UnSub
+Author: Nepeta
+
+Package: me.nepeta.unsub
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 544
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12, com.inoahdev.launchinsafemode
+Filename: ./debians/me.nepeta.unsub_0.1.2_iphoneos-arm.deb
+Size: 18000
+MD5sum: 3257de2aad91e07f1153ca264266a63b
+SHA1: af5a4f949de124cb36a90c3b3a134bd3e48ee78f
+SHA256: 2d23db5400d0328651ab44a5156496496d05d353abc40bd12b0177d24dd542e5
+SHA512: e3821c53748b5f964b0fe28e6f6de3e41b09ec0263b20bd9b3e5a22e9db48d53ca98e448e5ac24ae76d5e27e840c383a5e12e92ffa03fddb0ce4c5c1a3c405f4
+Description: Disable Substitute in certain apps.
+Name: UnSub
+Author: Nepeta
+
+Package: me.nepeta.unsub
+Architecture: iphoneos-arm
+Version: 0.1.3
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 552
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12, com.inoahdev.launchinsafemode
+Filename: ./debians/me.nepeta.unsub_0.1.3_iphoneos-arm.deb
+Size: 21710
+MD5sum: 7842abe37ae35e4943a279e8a33d1ca9
+SHA1: ed1e05784aa4d7c76447dd020d165be37194f79f
+SHA256: 5a23d27dcc1a0ccc5e6512f6d0dda1edcf26bd1501206a5da1b20be08f510193
+SHA512: 979a4d7b2f45837296214b84ed0c57e7954a25166ad31dd91ab03bedbd7d26a11e30636480fd625a3464a6031952eeb1ccc7edc6f6835221e52bc91097a97fc7
+Description: Disable Substitute in certain apps.
+Name: UnSub
+Author: Nepeta
+
+Package: me.nepeta.unsub
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 552
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
+Filename: ./debians/me.nepeta.unsub_0.1.4_iphoneos-arm.deb
+Size: 32758
+MD5sum: d8adc862989ba35a0781e78f3fba542e
+SHA1: 1b3b1eaba22ac881fb57a24867715aa7066d0cdc
+SHA256: e82c10e3abffb6689d7b7f71dde9257f27833cf4cc1e071d5abe715d27cabb0f
+SHA512: 2cf10b16b129e1d2bdcf694bb673a70310db4ec67f3b0faa1cbd8744b97a21cb56d3e1a24781412a72cee289ad29c6b8405e80c2fb5150da4ff4d9bf7a897ead
+Description: Disable tweak injection (Substrate/Substitute) in certain apps.
+Name: UnSub
+Author: Nepeta
+
+Package: me.nepeta.unsub
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 552
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
+Filename: ./debians/me.nepeta.unsub_0.1.5_iphoneos-arm.deb
+Size: 33756
+MD5sum: 160eeb948d50cdeecfab426fd1aeb80d
+SHA1: d80a50867201b34acbdc25caf6822c63c4ddcecf
+SHA256: 0734f0779c8a8ff8416df9039d00bf95823027e3822631b7a6c964d27687c36a
+SHA512: 69d9d4b24771b5266cb1ccf15ba4e9a3e92ecc85e8afc94c0172886a04f42989a10d94b3053209a860b5d52e813f911119c449b9c3719de9fd1e4c12bbde68b5
+Description: Disable tweak injection (Substrate/Substitute) in certain apps.
+Name: UnSub
+Author: Nepeta
+
+Package: me.nepeta.unsub
+Architecture: iphoneos-arm
+Version: 0.1.6
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 552
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
+Filename: ./debians/me.nepeta.unsub_0.1.6_iphoneos-arm.deb
+Size: 33856
+MD5sum: 9044954fc30779d1400b610233e7c4bd
+SHA1: a39be57d1230a554a00c97d184de92576865d154
+SHA256: dd665d3879dbb71fbe56678fbe9699c00754fbf44273b74bc2d2273c0b5ee62a
+SHA512: 593cc7ead5d567af9a600927fa625fbb55c713deb63a735f82b0f439e30e8d3cd43a82459d615c5f4e5fa94aef2a4e2003580204d35e9968513f9de1a71a6c99
+Description: Disable tweak injection (Substrate/Substitute) in certain apps.
+Name: UnSub
+Author: Nepeta
+
+Package: me.nepeta.unsub
+Architecture: iphoneos-arm
+Version: 0.1.7
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 624
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
+Filename: ./debians/me.nepeta.unsub_0.1.7_iphoneos-arm.deb
+Size: 40234
+MD5sum: aa39c3231b8deb186d510f3160893d8d
+SHA1: 3fd16792194da6b3afc3b2fcba4a78fca9fe064e
+SHA256: fb6c1a7577dd872bf7dc8f2ee168447fb1755f093ce743f6c20ddea74ef51fab
+SHA512: 2d8bb3dd60962cd0d33a26c9b4028928613c896d65e899d123931a7100a47c48802a9c067011943991d7bf7fc32455fbfc5a77584f620fbc197cb483f193f67f
+Description: Disable tweak injection (Substrate/Substitute) in certain apps.
+Name: UnSub
+Author: Nepeta
+
+Package: me.nepeta.unsub
+Architecture: iphoneos-arm
+Version: 0.1.8
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 624
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
+Filename: ./debians/me.nepeta.unsub_0.1.8_iphoneos-arm.deb
+Size: 40398
+MD5sum: f7a0b21815e73a58ef441a1c2b3b4b11
+SHA1: 36786d001e559df24633b439c8d01d9892c02fb8
+SHA256: 9a080a5a05554639d7e80cf4bb09c2ba044d5c3f30cf402de44201b838178c0d
+SHA512: 5ce71a2c40b3bab2b3345ec3bb1e07538d40892e1a35a2a327a4f6300fbce1faf7cbabdb64aea42427bd48254207322df4853a7530cdfdfd954c725527aea467
+Description: Disable tweak injection (Substrate/Substitute) in certain apps.
+Name: UnSub
+Author: Nepeta
+
+Package: me.nepeta.unsub
+Architecture: iphoneos-arm
+Version: 0.1.9
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 624
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
+Filename: ./debians/me.nepeta.unsub_0.1.9_iphoneos-arm.deb
+Size: 41206
+MD5sum: 7231014fd36383bc396dea91412b004e
+SHA1: b2a6a5b4b0c94edb180b2f6514abee94c5059165
+SHA256: 8b351a1835d8d2a8b519c0d360695e4da4286c265066d43f0c46880a5bb9a3d6
+SHA512: 3b8c567b870dad7c0ae2d39d5bbe243bac45c91c07f472feac3e6e8f128f28e37349625dd65bf62daf8d00dfd3c3224df5ef2deef96f8b6be27faa3f2b652d11
+Description: Disable tweak injection (Substrate/Substitute) in certain apps.
+Name: UnSub
+Author: Nepeta
+
