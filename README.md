@@ -1,0 +1,6 @@
+<center>
+     <h4 align="center"><i>Hey! Syns here. Nepeta is back. I had shut this mirror repo back in April, April 1st to be exact. With developers continuing her tweaks, I felt this repo was unnecessary (although some rando decided to continue it). Since she is back, I'm removing all assets from this repository excluding her Git Repo 7-Zip. If she wants even that removed, she can contact me (@truesyns) or Chr0nic (@Chr0nicT) on Twitter. Thanks for your understanding! Welcome back Nepeta - even if it's temporarily.</h4>
+<br>
+  <li> You can now download her GitHub files (open-source files) off the website via this link: https://chr0nict.github.io/Nepeta-Mirror/nepsgit.7z or by simply downloading the file from this repository.</li>
+    <h5 align="center"><i>Note: None of the work supplied in this repository is made by Chr0nicT. All work in here is licensed under MIT, and therefore, there's no copyright infringement in place. If Nepeta herself requests for removal, she can do so by privately dming <a href="https://twitter.com/Chr0nicT/">@Chr0nicT on Twitter</a> or <a href="https://twitter.com/truesyns/">@truesyns</a>.</h5>
+  </center>
